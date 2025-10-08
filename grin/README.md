@@ -1,47 +1,15 @@
-# grin
+# Grin
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## Overview
 
-**Status**: ✅ Full Research Complete
+**Website:** https://grin.io
 
----
+Minimal implementation of the Mimblewimble protocol.
 
-## 📋 Project Information
+## 📜 Smart Contracts
 
-**Website**: Pending verification
-**GitHub**: Pending verification
-**Blockchain**: Pending verification
-
-## 📝 Description
-
-Pending verification
+- **Unknown**: `0x7aaf799516404a8d69ef3f0b55746d15613ae04e` (unknown)
 
 ---
 
-## 🔍 Research Quality
-
-- **Confidence Score**: 1.00
-- **Data Completeness**: Pending assessment
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
-
----
-
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-- ✅ reports/ - 1 detailed analysis reports
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*

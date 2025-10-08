@@ -1,46 +1,15 @@
-# arpa
+# Arpa
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## Overview
 
-**Status**: ✅ Full Research Complete
+**Website:** https://arpa.io
 
----
+ARPA Network is a secure computation network that provides a threshold BLS (Boneh-Lynn-Shacham) signature infrastructure for blockchain applications. It enables decentralized, verifiable, and blockchain-agnostic cryptographic services including random number generation, secure wallets, cross-chain bridges, and decentralized custody. As a privacy-preserving Layer 2 solution, ARPA uses secure multi-party computation to protect and validate transactions while increasing transaction processing times for practically any blockchain network. The network allows nodes to generate signatures asynchronously and in parallel, with a focus on security, flexibility, and multi-chain compatibility.
 
-## 📋 Project Information
+## 📜 Smart Contracts
 
-**Website**: Pending verification
-**GitHub**: Pending verification
-**Blockchain**: Pending verification
-
-## 📝 Description
-
-Pending verification
+- **Unknown**: `0xdd1ce2d72b2fdccb2d10d3d04d5ca2ba81e39ad3` (unknown)
 
 ---
 
-## 🔍 Research Quality
-
-- **Confidence Score**: 1.00
-- **Data Completeness**: Pending assessment
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
-
----
-
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*

@@ -1,46 +1,11 @@
-# chainport
+# Chainport
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## Overview
 
-**Status**: ✅ Full Research Complete
+**Website:** https://chainport.xyz
 
----
-
-## 📋 Project Information
-
-**Website**: Pending verification
-**GitHub**: Pending verification
-**Blockchain**: Pending verification
-
-## 📝 Description
-
-Pending verification
+ChainPort is a next-generation security-focused cross-chain bridge that enables users to port tokens across 25+ blockchain ecosystems with fast, permissionless transfers. It is the first bridge that offers a fully security-focused solution safeguarding 95% of funds in cold storage vaults, using active multi-party computation (MPC) with hardware isolation powered by Fireblocks. ChainPort is the only bridge that supports all common bridging methods including wrapped asset bridging (lock-and-mint), native token bridging, hybrid bridging, and external cross-chain protocols like Circle's CCTP for USDC. The platform enables full interoperability, allowing users to port tokens across multiple blockchains without needing to revert back to the original chain.
 
 ---
 
-## 🔍 Research Quality
-
-- **Confidence Score**: 1.00
-- **Data Completeness**: Pending assessment
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
-
----
-
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*

@@ -1,46 +1,13 @@
-# frame
+# Frame
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## Overview
 
-**Status**: ✅ Full Research Complete
+**Website:** https://frame.io
+## 📜 Smart Contracts
 
----
-
-## 📋 Project Information
-
-**Website**: Pending verification
-**GitHub**: Pending verification
-**Blockchain**: Pending verification
-
-## 📝 Description
-
-Pending verification
+- **MintFactory**: `0x0000000000003d61b3d0a96b70b9c9006947759c` (unknown)
+- **Hacker Pizza**: `0x61fc46fe4b5fa66db1acd6cc89b2668dd6f0c8a3` (unknown)
 
 ---
 
-## 🔍 Research Quality
-
-- **Confidence Score**: 1.00
-- **Data Completeness**: Pending assessment
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
-
----
-
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*

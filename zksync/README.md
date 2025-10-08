@@ -1,30 +1,12 @@
-# zkSync
+# Zksync
 
 ## Overview
 
-**Category:** Privacy  
-**Website:** Not Available  
-**GitHub:** Not Available  
+**Website:** https://zksync.com
+## 📜 Smart Contracts
 
-
-
----
-
-## 🔑 Key Information
+- **zkSync Era Bridge L1**: `0x57891966931eb4bb6fb81430e6ce0a03aabde063` (ethereum)
 
 ---
 
-## 📊 Research Metadata
-
-- **Research Date:** Unknown
-- **Data Sources:** 0 verified sources
-- **Confidence Score:** N/A
-- **Constitutional Compliance:** {'version': '2.0.0', 'real_data_only': True, 'multi_source_verification': True, 'no_fabrication': True, 'confidence_scoring': True, 'gap_reporting': True}
-
-### Supporting Documents
-
-- [Verified Data (JSON)](sources/verified_data.json)
-
----
-
-*Constitutional research with zero fabrication guarantee*
+*Constitutional Research v2.0.0 - Real data only*

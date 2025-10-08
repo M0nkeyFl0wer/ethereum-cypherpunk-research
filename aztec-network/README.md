@@ -1,47 +1,20 @@
-# aztec-network
+# Aztec Network
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## Overview
 
-**Status**: ✅ Full Research Complete
+**Website:** https://aztec-network.com
 
----
+Aztec Network is the privacy-first Layer 2 blockchain on Ethereum (same as 'aztec' entry - this appears to be a duplicate project name referring to the same protocol).
 
-## 📋 Project Information
+## 📜 Smart Contracts
 
-**Website**: Pending verification
-**GitHub**: https://github.com/AztecProtocol
-**Blockchain**: Pending verification
+- **Aztec Connect Rollup**: `0xff1f2b4adb9df6fc8eafecdcbf96a2b351680455` (ethereum)
 
-## 📝 Description
+## 🔒 Security Scan
 
-Pending verification
-
----
-
-## 🔍 Research Quality
-
-- **Confidence Score**: .99
-- **Data Completeness**: Pending assessment
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
+**Events Found:** 101
+**Modules:** 5
 
 ---
 
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-- ✅ reports/ - 1 detailed analysis reports
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*

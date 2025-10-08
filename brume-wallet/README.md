@@ -1,46 +1,11 @@
-# brume-wallet
+# Brume Wallet
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## Overview
 
-**Status**: ✅ Full Research Complete
+**Website:** https://wallet.brume.money/
 
----
-
-## 📋 Project Information
-
-**Website**: Pending verification
-**GitHub**: Pending verification
-**Blockchain**: Pending verification
-
-## 📝 Description
-
-Pending verification
+Brume Wallet is a non-custodial and private Ethereum wallet with built-in Tor network integration. It features built-in Tor to hide users' IP addresses from third parties, with each account having its own IP address for enhanced privacy. The wallet routes all network requests through the Tor protocol to prevent third-party services from accessing IP addresses, thereby protecting against tracking and censorship. Launched by Le Hash at the privacy-centric EthBrno hackathon 2022 edition where it won first place and the design award, Brume Wallet is available as a browser extension, website, and mobile application across Chrome, Firefox, and Android platforms. It is open source (MIT license) and free to use.
 
 ---
 
-## 🔍 Research Quality
-
-- **Confidence Score**: 1.00
-- **Data Completeness**: Pending assessment
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
-
----
-
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*

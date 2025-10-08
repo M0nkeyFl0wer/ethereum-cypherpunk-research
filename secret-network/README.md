@@ -1,46 +1,10 @@
-# secret-network
+# Secret Network
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## 📜 Smart Contracts
 
-**Status**: ✅ Full Research Complete
-
----
-
-## 📋 Project Information
-
-**Website**: Pending verification
-**GitHub**: https://github.com/scrtlabs/SecretNetwork
-**Blockchain**: Pending verification
-
-## 📝 Description
-
-Pending verification
+- **Wrapped SCRT (wSCRT) on Ethereum**: `0x2b89bf8ba858cd2fcee1fada378d5cd6936968be` (ethereum)
+- **Secret SCRT (sSCRT) on Secret Network**: `secret1k0jntykt7e4g3y88ltc60czgjuqdy4c9e8fzek` (secret-network)
 
 ---
 
-## 🔍 Research Quality
-
-- **Confidence Score**: .97
-- **Data Completeness**: Pending assessment
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
-
----
-
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*

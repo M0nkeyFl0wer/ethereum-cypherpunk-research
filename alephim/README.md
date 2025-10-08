@@ -1,46 +1,11 @@
-# alephim
+# Alephim
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## Overview
 
-**Status**: ✅ Full Research Complete
+**Website:** https://alephim.com
 
----
-
-## 📋 Project Information
-
-**Website**: Pending verification
-**GitHub**: https://github.com/aleph-im/aleph-vm
-**Blockchain**: Pending verification
-
-## 📝 Description
-
-Pending verification
+Aleph.im (now Aleph Cloud) is a decentralized cloud computing platform that provides on-demand serverless computation, database, and storage infrastructure for decentralized application development. The platform delivers confidential computing, decentralized GPU power, and serverless functions for secure AI, scalable dApps, and next-gen Web3 infrastructure. It is an open-source crosschain network featuring decentralized database storage, computing resources, blockchain indexing, and a decentralized identity framework, with the core mission to help decentralized apps and protocols eliminate centralized components from their stack.
 
 ---
 
-## 🔍 Research Quality
-
-- **Confidence Score**: 1.00
-- **Data Completeness**: Pending assessment
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
-
----
-
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*

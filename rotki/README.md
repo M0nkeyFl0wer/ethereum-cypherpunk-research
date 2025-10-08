@@ -1,31 +1,13 @@
-# rotki
-![rotki Logo](media/rotki-logo.png)
+# Rotki
 
 ## Overview
 
-**Category:** Privacy  
-**Website:** Not Available  
-**GitHub:** Not Available  
+**Website:** https://rotki.com
+## 🔒 Security Scan
 
-
-
----
-
-## 🔑 Key Information
+**Events Found:** 333
+**Modules:** 10
 
 ---
 
-## 📊 Research Metadata
-
-- **Research Date:** Unknown
-- **Data Sources:** 0 verified sources
-- **Confidence Score:** N/A
-- **Constitutional Compliance:** v2.0.0
-
-### Supporting Documents
-
-- [Verified Data (JSON)](sources/verified_data.json)
-
----
-
-*Constitutional research with zero fabrication guarantee*
+*Constitutional Research v2.0.0 - Real data only*

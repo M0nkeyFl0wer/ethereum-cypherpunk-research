@@ -1,46 +1,21 @@
-# railgun
+# Railgun
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## Overview
 
-**Status**: ✅ Full Research Complete
+**Website:** https://railgun.io
+## 📜 Smart Contracts
 
----
+- **Railgun Relay**: `0xfa7093cdd9ee6932b4eb2c9e1cde7ce00b1fa4b9` (ethereum)
+- **RelayAdapt**: `0xc3f2c8f9d5f0705de706b1302b7a039e1e11ac88` (ethereum)
+- **RAIL Token**: `0xe76C6c83af64e4C60245D8C7dE953DF673a7A33D` (ethereum)
+- **Railgun Treasury**: `0xe8a8b458bcd1ececc6b6b58f80929b29ccecff40` (ethereum)
+- **Railgun WETH Helper**: `0x4025ee6512dbbda97049bcf5aa5d38c54af6be8a` (ethereum)
 
-## 📋 Project Information
+## 🔒 Security Scan
 
-**Website**: Pending verification
-**GitHub**: https://github.com/Railgun-Privacy
-**Blockchain**: Pending verification
-
-## 📝 Description
-
-Pending verification
-
----
-
-## 🔍 Research Quality
-
-- **Confidence Score**: .97
-- **Data Completeness**: Full research complete
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
+**Events Found:** 5
+**Modules:** 3
 
 ---
 
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*

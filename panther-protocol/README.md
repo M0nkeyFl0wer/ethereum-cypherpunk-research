@@ -1,46 +1,9 @@
-# panther-protocol
+# Panther Protocol
 
-Privacy-focused Web3 project in the Web3Privacy ecosystem.
+## 📜 Smart Contracts
 
-**Status**: ✅ Full Research Complete
-
----
-
-## 📋 Project Information
-
-**Website**: Pending verification
-**GitHub**: Pending verification
-**Blockchain**: Pending verification
-
-## 📝 Description
-
-Pending verification
+- **ZKP Governance Token**: `0x909E34d3f6124C324ac83DccA84b74398a6fa173` (ethereum)
 
 ---
 
-## 🔍 Research Quality
-
-- **Confidence Score**: .97
-- **Data Completeness**: Full research complete
-- **Constitutional Compliance**: ✅ Verified (CONSTITUTION v2.0.0)
-- **Real Data Only**: No synthetic information
-
----
-
-## 📂 Available Files
-
-- ✅ constitutional_research.json - Complete research data
-- ✅ project_metadata.json - Basic metadata
-- ✅ README.md - This file
-- ✅ CARD.md - Visual project card
-
----
-
-## 🔗 Related Reports
-
-
----
-
-**Research Date**: 2025-10-07
-**Constitution**: v2.0.0 - Real Data Only
-**Source**: Web3Privacy Research Project
+*Constitutional Research v2.0.0 - Real data only*
