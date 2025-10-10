@@ -31,10 +31,18 @@ dist/
 build/
 *.egg-info/
 
-# JSON_CONSOLIDATED (archived data)
-JSON_CONSOLIDATED/
-
-# Recovery and temp directories
+# Research process files (keep out of public repo)
+session/
+status/
 recovery/
 temp/
 tmp/
+*_SESSION_*.md
+*_STATUS_*.md
+*_REPORT.md
+*_SUMMARY.md
+*EXTRACTION*.json
+*CONSOLIDATED*.json
+*CONSOLIDATED*.md
+START_HERE_*.md
+GEMINI_RESEARCH_QUEUE.md
