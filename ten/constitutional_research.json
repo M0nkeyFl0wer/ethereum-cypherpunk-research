@@ -1,0 +1,123 @@
+{
+  "project_name": "ten",
+  "research_timestamp": "2025-10-04T18:39:39-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "ten",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "ten/project_metadata.json",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:28-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/ten",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/ten",
+    "message": "Page not found: /api/project/ten",
+    "data": {
+      "path": "/api/project/ten"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "ten",
+    "analysis_timestamp": "2025-10-04T19:01:51-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://ten.network",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://ten.network",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "github": "https://github.com/ten-protocol/go-ten",
+  "basic_information": {
+    "description": {
+      "value": "Educational video content about Soroban and Stellar for over 160.000 followers. Cross border payments, CBDCs and smart contracts.",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from analysis/oso_data.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    }
+  },
+  "code_analysis": {
+    "total_lines_of_code": 133689,
+    "languages": {
+      "solidity": 64,
+      "rust": 0,
+      "typescript": 34,
+      "javascript": 5,
+      "go": 574,
+      "python": 0
+    },
+    "smart_contracts_found": 64,
+    "test_files_found": 107,
+    "has_documentation": true,
+    "analysis_timestamp": "2025-10-10T15:40:08Z",
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "Layer 2 solution extending Web3 Scalability with Encryption",
+  "project_description": "Layer 2 solution extending Web3 Scalability with Encryption",
+  "github_repository": "https://github.com/ten-protocol/go-ten",
+  "github_url": "https://github.com/ten-protocol/go-ten",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/ten-protocol/go-ten"
+    }
+  }
+}

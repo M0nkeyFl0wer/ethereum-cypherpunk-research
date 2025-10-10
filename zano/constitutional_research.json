@@ -1,0 +1,93 @@
+{
+  "project_name": "zano",
+  "research_timestamp": "2025-10-04T18:39:45-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "zano",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "github_url_source": "web_search_2025",
+    "github_url_confidence": 0.95,
+    "github_sources_count": 2,
+    "description_source": "web_search_2025",
+    "description_confidence": 0.95,
+    "research_date": "2025-10-10"
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:30-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/zano",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/zano",
+    "message": "Page not found: /api/project/zano",
+    "data": {
+      "path": "/api/project/zano"
+    }
+  },
+  "market_data": {},
+  "website": "https://zano.org/",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://zano.org",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/hyle-team/zano"
+    },
+    "website": "https://zano.org/"
+  },
+  "basic_information": {
+    "description": {
+      "value": "Confidential, Secure, Easy-to-Use",
+      "confidence": 0.9,
+      "sources": [
+        "GitHub repository description via API"
+      ],
+      "verification_count": 1
+    }
+  },
+  "code_analysis": {
+    "total_lines_of_code": 530,
+    "languages": {
+      "solidity": 0,
+      "rust": 0,
+      "typescript": 0,
+      "javascript": 2,
+      "go": 0,
+      "python": 2
+    },
+    "smart_contracts_found": 0,
+    "test_files_found": 380,
+    "has_documentation": true,
+    "analysis_timestamp": "2025-10-10T15:40:16Z",
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "github_repository": "https://github.com/hyle-team/zano",
+  "github_url": "https://github.com/hyle-team/zano",
+  "description": "Zano is an open-source privacy-centric cryptocurrency ecosystem launched in 2019 that offers enterprise-grade privacy, security, and scalability using advanced cryptographic techniques like ring signatures (size 16) and stealth addresses. Its Zarcanum technology introduces the world's first hidden amounts Proof of Stake scheme, delivering the same privacy level as the most private Proof of Work systems. Zano enables confidential assets and user-creatable privacy tokens with complete transactional privacy.",
+  "project_description": "Zano is an open-source privacy-centric cryptocurrency ecosystem launched in 2019 that offers enterprise-grade privacy, security, and scalability using advanced cryptographic techniques like ring signatures (size 16) and stealth addresses. Its Zarcanum technology introduces the world's first hidden amounts Proof of Stake scheme, delivering the same privacy level as the most private Proof of Work systems. Zano enables confidential assets and user-creatable privacy tokens with complete transactional privacy.",
+  "github": "https://github.com/hyle-team/zano"
+}

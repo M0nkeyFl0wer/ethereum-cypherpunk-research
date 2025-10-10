@@ -1,0 +1,66 @@
+{
+  "project_name": "Mask",
+  "description": "Mask Network is a browser extension that seamlessly bridges Web2 and Web3 by bringing decentralized applications to traditional social media platforms including X (Twitter), Facebook, Instagram, Minds, and Mirror. It enables users to share encrypted messages on social media using strong encryption standards (AES256, ECIES), access Web3 services like token swapping and ENS addresses directly from social platforms, and aggregate Web3 identity across platforms. The platform maintains user privacy and data control through decentralized architecture while providing seamless integration with existing social media UIs.",
+  "website": "https://www.mask.io/",
+  "github": "https://github.com/DimensionDev/Maskbook",
+  "category": "Uncategorized",
+  "status": "Unknown",
+  "github_stats": {
+    "stars": 0,
+    "forks": 0,
+    "language": "Unknown"
+  },
+  "metadata": {
+    "source": "README.md conversion",
+    "extracted_date": "2025-10-09",
+    "confidence": 0.85,
+    "data_type": "markdown_extracted",
+    "github_url_source": "web_search_2025",
+    "github_url_confidence": 0.95,
+    "github_sources_count": 1,
+    "description_source": "web_search_2025",
+    "description_confidence": 0.95,
+    "description_expanded_date": "2025-10-10"
+  },
+  "basic_information": {
+    "description": {
+      "value": "No description available",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "github_data": {
+    "statistics": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown"
+    }
+  },
+  "code_analysis": {
+    "total_lines_of_code": 2619,
+    "languages": {
+      "solidity": 0,
+      "rust": 0,
+      "typescript": 0,
+      "javascript": 16,
+      "go": 0,
+      "python": 0
+    },
+    "smart_contracts_found": 0,
+    "test_files_found": 2,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "github_repository": "https://github.com/DimensionDev/Maskbook",
+  "github_url": "https://github.com/DimensionDev/Maskbook",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/DimensionDev/Maskbook"
+    },
+    "website": "https://www.mask.io/"
+  },
+  "project_description": "Mask Network is a browser extension that seamlessly bridges Web2 and Web3 by bringing decentralized applications to traditional social media platforms including X (Twitter), Facebook, Instagram, Minds, and Mirror. It enables users to share encrypted messages on social media using strong encryption standards (AES256, ECIES), access Web3 services like token swapping and ENS addresses directly from social platforms, and aggregate Web3 identity across platforms. The platform maintains user privacy and data control through decentralized architecture while providing seamless integration with existing social media UIs."
+}

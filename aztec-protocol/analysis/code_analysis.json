@@ -1,0 +1,29 @@
+{
+  "project": "aztec-network",
+  "repository": "https://github.com/AztecProtocol/aztec-packages",
+  "analysis_timestamp": "2025-10-10T15:39:59Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 332,
+    "rust": 23,
+    "typescript": 2304,
+    "javascript": 112,
+    "go": 0,
+    "python": 18
+  },
+  "total_files": 8583,
+  "total_lines_of_code": 54380,
+  "smart_contracts_found": 332,
+  "dependencies": {
+    "npm": false,
+    "cargo": false,
+    "go_modules": false
+  },
+  "test_files_found": 2026,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 820
+  },
+  "analysis_status": "completed"
+}

@@ -1,0 +1,117 @@
+{
+  "project_name": "darkfi",
+  "research_timestamp": "2025-10-04T18:39:01-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "darkfi",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "research_source": "web_search_2025",
+    "research_confidence": 0.95,
+    "research_date": "2025-10-10",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 4
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:13-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/darkfi",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/darkfi",
+    "message": "Page not found: /api/project/darkfi",
+    "data": {
+      "path": "/api/project/darkfi"
+    }
+  },
+  "market_data": {},
+  "website": "https://dark.fi",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://darkfi.org",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "basic_information": {
+    "description": {
+      "value": "Contact with an owner of darkfi.org domain name.",
+      "confidence": 0.85,
+      "sources": [
+        "Website meta description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "online_presence": {
+    "social_media": {
+      "twitter": "",
+      "discord": "",
+      "telegram": "",
+      "medium": "",
+      "mirror": ""
+    },
+    "website": "https://dark.fi",
+    "github": {
+      "url": "https://github.com/darkrenaissance/darkfi"
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      "Rust",
+      "Jupyter Notebook",
+      "Python",
+      "Sage",
+      "Makefile",
+      "Shell",
+      "Java",
+      "HTML",
+      "CSS",
+      "TeX",
+      "Dockerfile",
+      "Nix",
+      "Lua",
+      "Vim Script",
+      "RenderScript",
+      "Fluent"
+    ]
+  },
+  "description": "DarkFi is a multichain layer-1 protocol for anonymous applications and smart contracts powered by zero-knowledge proofs. It's an L1 for anonymous engineering that uses advances in zero-knowledge cryptography and includes a contracting language and developer toolkits to create uncensorable code. DarkFi seeks to develop applications with smart contracts beyond being a money system, creating user-empowering systems that preserve fundamental human rights like privacy and freedom of speech.",
+  "project_description": "DarkFi is a multichain layer-1 protocol for anonymous applications and smart contracts powered by zero-knowledge proofs. It's an L1 for anonymous engineering that uses advances in zero-knowledge cryptography and includes a contracting language and developer toolkits to create uncensorable code. DarkFi seeks to develop applications with smart contracts beyond being a money system, creating user-empowering systems that preserve fundamental human rights like privacy and freedom of speech.",
+  "github_repository": "https://github.com/darkrenaissance/darkfi",
+  "github_url": "https://github.com/darkrenaissance/darkfi",
+  "code_analysis": {
+    "total_lines_of_code": 182230,
+    "total_files": 1596,
+    "languages": {
+      "solidity": 0,
+      "rust": 547,
+      "typescript": 0,
+      "javascript": 3,
+      "go": 0,
+      "python": 176
+    },
+    "smart_contracts_found": 0,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  }
+}

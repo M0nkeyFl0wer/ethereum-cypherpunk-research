@@ -1,0 +1,207 @@
+{
+  "project_name": "light-protocol",
+  "research_timestamp": "2025-10-04T18:39:14-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "light-protocol",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "light-protocol/research_result.json",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:19-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/light-protocol",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/light-protocol",
+    "message": "Page not found: /api/project/light-protocol",
+    "data": {
+      "path": "/api/project/light-protocol"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "light-protocol",
+    "analysis_timestamp": "2025-10-04T19:01:54-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://www.light-protocol.com",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://www.light-protocol.com",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "github": "https://github.com/Lightprotocol/light-protocol",
+  "basic_information": {
+    "description": {
+      "value": "Light Protocol is a production-grade ZK Compression protocol for Solana that enables rent-free tokens and PDAs without sacrificing performance, security, or composability. The system uses Groth16 ZK proofs to compress on-chain state into Merkle trees.",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at basic_information.description.value"
+      ],
+      "verification_count": 1
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      {
+        "primary_languages": [
+          "Rust (78.5%)",
+          "TypeScript (12.5%)",
+          "Go (5.9%)",
+          "Shell"
+        ],
+        "blockchain_platform": "Solana",
+        "frameworks": [
+          "Anchor (v0.29.0)",
+          "Solana SDK"
+        ],
+        "node_runtime": "NodeJS v20.9.0 LTS",
+        "package_managers": [
+          "pnpm",
+          "Cargo"
+        ],
+        "development_tools": [
+          "Solana CLI",
+          "solana-test-validator",
+          "solana-keygen",
+          "solana-verify",
+          "Docker",
+          "LLVM (clang, lld)"
+        ],
+        "confidence_score": 0.98
+      }
+    ]
+  },
+  "security": {
+    "audits": [
+      "Formal verification"
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      {
+        "primary_technique": "ZK Compression",
+        "cryptographic_primitives": [
+          {
+            "name": "Groth16 SNARK",
+            "purpose": "Zero-knowledge proofs for compressed account integrity verification",
+            "proof_size": "128 bytes (constant)",
+            "confidence_score": 0.95
+          },
+          {
+            "name": "Poseidon Hash",
+            "purpose": "Arithmetic-friendly hash function for Merkle tree construction",
+            "description": "Hash-based concurrent Merkle tree (sparse binary)",
+            "confidence_score": 0.95
+          },
+          {
+            "name": "Sparse Binary Merkle Tree",
+            "purpose": "State tree for compressed account storage",
+            "capacity": "67 million compressed account state transitions per tree",
+            "confidence_score": 0.93
+          }
+        ],
+        "architecture": {
+          "data_structure": "Forest of multiple binary Merkle trees",
+          "state_storage": "Compressed account data hashed and stored as Merkle tree leaves",
+          "on_chain_footprint": "Small fingerprint (state root) stored on-chain",
+          "verification": "Small validity proofs verify multiple compressed accounts",
+          "compressed_account_hash_components": [
+            "DataHash",
+            "Lamports",
+            "OwnerHash",
+            "Address",
+            "Discriminator",
+            "State tree hash",
+            "Leaf Index"
+          ],
+          "confidence_score": 0.92
+        },
+        "v1_privacy_features": {
+          "technique": "zkSNARK-based anonymous transactions",
+          "description": "Shielded pools similar to Zcash/Tornado Cash",
+          "features": [
+            "Shield tokens to liquidity pool",
+            "Break on-chain link between sender and recipient",
+            "Shielded internal transactions (conceals amount and recipient)",
+            "Optional compliance proofs to re-establish fund origin",
+            "Trustless zero-knowledge proof verification"
+          ],
+          "circuit_implementation": "Based on tornado_nova circuit",
+          "libraries": [
+            "arkworks (ark_bn254, ark_ec, ark_ff)",
+            "arkworks_gadgets"
+          ],
+          "status": "Legacy version (v1), current focus is ZK Compression",
+          "confidence_score": 0.9
+        },
+        "protocol_evolution": {
+          "original_purpose": "Privacy solution for Solana (anonymous transactions)",
+          "pivot": "Shifted focus to data compression through zero-knowledge proofs",
+          "current_focus": "ZK Compression Protocol for state reduction and cost optimization",
+          "confidence_score": 0.93
+        }
+      }
+    ]
+  },
+  "description": "Privacy layer for Solana (originally) - now pivoted to ZK Compression Protocol for Solana state reduction",
+  "project_description": "Privacy layer for Solana (originally) - now pivoted to ZK Compression Protocol for Solana state reduction",
+  "github_repository": "https://github.com/Lightprotocol/light-protocol",
+  "github_url": "https://github.com/Lightprotocol/light-protocol",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/Lightprotocol/light-protocol"
+    }
+  }
+}

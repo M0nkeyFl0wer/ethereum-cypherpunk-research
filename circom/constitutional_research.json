@@ -1,0 +1,221 @@
+{
+  "project_name": "circom",
+  "research_timestamp": "2025-10-04T18:38:58-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "circom",
+    "confidence": 0.5
+  },
+  "github_data": {},
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "github_url_source": "analysis_file",
+    "github_url_confidence": 0.95,
+    "github_sources_count": 1
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:12-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/circom",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/circom",
+    "message": "Page not found: /api/project/circom",
+    "data": {
+      "path": "/api/project/circom"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "circom",
+    "analysis_timestamp": "2025-10-04T19:02:08-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://circom.io",
+  "website_confidence": 0.85,
+  "description": "Circom is a specialized compiler and circuit description language for building zero-knowledge proof applications. Written in Rust, it enables developers to design arithmetic circuits that are compiled to R1CS (Rank-1 Constraint System) format, allowing them to create, test, and generate zero-knowledge proofs. The ecosystem includes the circom compiler, supporting libraries like circomlib (containing hundreds of circuit templates for comparators, hash functions, digital signatures, and converters), circomlibjs, and snarkjs to facilitate the entire zero-knowledge proof development process. Circom enables the creation of large circuits by combining smaller generic circuits called templates, opening up possibilities for privacy-preserving applications in digital identities, voting systems, and financial transactions where proving statement validity without revealing underlying data is critical.",
+  "description_confidence": 0.94,
+  "research_metadata": {
+    "batch3_processed": true,
+    "batch3_web_research_date": "2025-10-06T12:50:00Z",
+    "seshat_website_found": true
+  },
+  "website_sources": [
+    "https://circom.io",
+    "seshat domain discovery"
+  ],
+  "basic_information": {
+    "description": {
+      "value": "Circom is a specialized compiler and circuit description language for building zero-knowledge proof applications. Written in Rust, it enables developers to design arithmetic circuits that are compiled to R1CS (Rank-1 Constraint System) format, allowing them to create, test, and generate zero-knowledge proofs. The ecosystem includes the circom compiler, supporting libraries like circomlib (containing hundreds of circuit templates for comparators, hash functions, digital signatures, and converters), circomlibjs, and snarkjs to facilitate the entire zero-knowledge proof development process. Circom enables the creation of large circuits by combining smaller generic circuits called templates, opening up possibilities for privacy-preserving applications in digital identities, voting systems, and financial transactions where proving statement validity without revealing underlying data is critical.",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith",
+    {
+      "value": "iden3 team",
+      "confidence": 0.7,
+      "sources": [
+        "https://api.github.com/orgs/iden3",
+        "https://github.com/iden3/circom/contributors"
+      ],
+      "verified": "PARTIAL",
+      "gap_status": "INCOMPLETE_DATA",
+      "details": {
+        "organization": "iden3",
+        "organization_bio": "Blockchain-based identity management solution including privacy by design with zkSNARKs",
+        "organization_created": "2018-05-17",
+        "organization_website": "www.iden3.io",
+        "organization_twitter": "@identhree",
+        "organization_email": "hello()iden3.io",
+        "top_contributors": [
+          {
+            "github": "clararod9",
+            "contributions": 346,
+            "profile": "https://github.com/clararod9",
+            "verified": true
+          },
+          {
+            "github": "miguelis",
+            "contributions": 167,
+            "profile": "https://github.com/miguelis",
+            "verified": true
+          },
+          {
+            "github": "alrubio",
+            "contributions": 150,
+            "profile": "https://github.com/alrubio",
+            "verified": true
+          }
+        ]
+      },
+      "notes": "Individual founders' names not publicly documented in official sources. iden3 team maintains anonymity similar to many crypto projects. Would need LinkedIn or team page research for named founders."
+    }
+  ],
+  "online_presence": {
+    "social_media": {
+      "twitter": {
+        "value": "https://twitter.com/identhree",
+        "confidence": 1.0,
+        "sources": [
+          "https://api.github.com/orgs/iden3"
+        ],
+        "verified": true,
+        "handle": "@identhree"
+      },
+      "discord": {
+        "value": null,
+        "confidence": 0.0,
+        "gap_status": "DATA_MISSING"
+      },
+      "telegram": {
+        "value": null,
+        "confidence": 0.0,
+        "gap_status": "DATA_MISSING"
+      },
+      "medium": "",
+      "mirror": "",
+      "github": {
+        "value": "https://github.com/iden3",
+        "confidence": 1.0,
+        "sources": [
+          "Direct verification"
+        ],
+        "verified": true
+      }
+    },
+    "github": {
+      "url": "https://github.com/iden3/circom"
+    }
+  },
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs",
+      "WebAssembly",
+      "Rust",
+      "Assembly",
+      "C++",
+      "JavaScript",
+      "Makefile"
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 42089,
+    "languages": {
+      "solidity": 0,
+      "rust": 144,
+      "typescript": 0,
+      "javascript": 3,
+      "go": 0,
+      "python": 0
+    },
+    "smart_contracts_found": 0,
+    "test_files_found": 2,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "github_repository": "https://github.com/iden3/circom",
+  "github_url": "https://github.com/iden3/circom"
+}

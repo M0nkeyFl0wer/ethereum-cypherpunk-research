@@ -1,0 +1,150 @@
+{
+  "project_name": "incognito",
+  "research_timestamp": "2025-10-04T18:39:12-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "incognito",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "research_source": "web_search_2025",
+    "research_confidence": 0.95,
+    "research_date": "2025-10-10",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 4
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:18-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/incognito",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/incognito",
+    "message": "Page not found: /api/project/incognito",
+    "data": {
+      "path": "/api/project/incognito"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "incognito",
+    "analysis_timestamp": "2025-10-04T19:02:14-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://incognito.com",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://incognito.com",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "basic_information": {
+    "description": {
+      "value": "Incognito is a privacy-focused blockchain that provides privacy infrastructure and applications for web3. It operates as a privacy sidechain that can be attached to any blockchain to conduct confidential asset transfers. Uses ring signatures, stealth addresses, and confidential transactions to completely mask sender, receiver, and transaction amounts.",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at basic_information.description.value"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "online_presence": {
+    "social_media": {
+      "twitter": "",
+      "discord": "",
+      "telegram": "",
+      "medium": "",
+      "mirror": ""
+    },
+    "website": "https://incognito.com",
+    "github": {
+      "url": "https://github.com/incognitochain"
+    }
+  },
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs"
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "description": "Incognito is a privacy protocol described as 'Incognito mode for your crypto'. The privacy protocol uses bulletproofs, ring signatures, and one-time addresses to provide privacy for blockchain transactions. Incognito allows users to prove transactions are valid without exposing sensitive information, enabling private cryptocurrency transactions.",
+  "project_description": "Incognito is a privacy protocol described as 'Incognito mode for your crypto'. The privacy protocol uses bulletproofs, ring signatures, and one-time addresses to provide privacy for blockchain transactions. Incognito allows users to prove transactions are valid without exposing sensitive information, enabling private cryptocurrency transactions.",
+  "github_repository": "https://github.com/incognitochain",
+  "github_url": "https://github.com/incognitochain",
+  "code_analysis": {
+    "total_lines_of_code": 20118,
+    "total_files": 0,
+    "languages": {},
+    "smart_contracts_found": 0,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  }
+}

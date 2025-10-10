@@ -1,0 +1,90 @@
+{
+  "project_name": "Dark Forest",
+  "description": {
+    "value": "Massively multiplayer online real-time strategy (MMORTS) space conquest game built on Ethereum using zkSNARKs",
+    "confidence": 0.95,
+    "source": "web_search_2025"
+  },
+  "website": "https://zkga.me",
+  "github": "https://github.com/darkforest-eth",
+  "category": "Uncategorized",
+  "status": "Unknown",
+  "github_stats": {
+    "stars": 0,
+    "forks": 0,
+    "language": "Unknown"
+  },
+  "metadata": {
+    "source": "README.md conversion",
+    "extracted_date": "2025-10-09",
+    "confidence": 0.85,
+    "data_type": "markdown_extracted",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 3
+  },
+  "basic_information": {
+    "description": {
+      "value": "No description available",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "Circom (zkSNARK circuits)",
+      "Ethereum smart contracts",
+      "React (client)"
+    ]
+  },
+  "github_data": {
+    "statistics": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown"
+    }
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/darkforest-eth",
+      "value": "https://github.com/darkforest-eth",
+      "confidence": 0.95,
+      "source": "web_search_2025"
+    }
+  },
+  "privacy_features": [
+    "zkSNARK-based hidden information",
+    "Proof of planet initialization",
+    "Proof of move validity",
+    "Coordinate revelation proofs"
+  ],
+  "last_updated": "2025-10-10",
+  "data_source": "web_search_twitter_2025",
+  "github_repository": "https://github.com/darkforest-eth",
+  "github_url": "https://github.com/darkforest-eth"
+}

@@ -1,0 +1,329 @@
+{
+  "project_name": "litentry",
+  "research_timestamp": "2025-10-04T18:39:15-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "litentry",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "litentry/research_result.json",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:19-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/litentry",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/litentry",
+    "message": "Page not found: /api/project/litentry",
+    "data": {
+      "path": "/api/project/litentry"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "litentry",
+    "analysis_timestamp": "2025-10-04T19:02:01-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://litentry.network",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://litentry.network",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "github": "https://github.com/litentry/litentry-parachain",
+  "basic_information": {
+    "description": {
+      "value": "Litentry Foundation\u2019s vision is to build a decentralized, privacy-preserving, and interoperable Web3 ecosystem where users have full control over their digital identities and data.",
+      "confidence": 0.85,
+      "sources": [
+        "Website meta description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      {
+        "primary_languages": [
+          {
+            "language": "Rust",
+            "percentage": 79.3,
+            "usage": "Core blockchain implementation, runtime, pallets"
+          },
+          {
+            "language": "TypeScript",
+            "percentage": 12.1,
+            "usage": "GraphQL server, API layer"
+          },
+          {
+            "language": "Solidity",
+            "percentage": 4.4,
+            "usage": "EVM compatibility layer"
+          },
+          {
+            "language": "Shell",
+            "usage": "Build scripts and deployment automation"
+          },
+          {
+            "language": "C",
+            "usage": "SGX SDK integration"
+          },
+          {
+            "language": "Python",
+            "usage": "Worker launch scripts and configuration tools"
+          }
+        ],
+        "frameworks_and_platforms": [
+          {
+            "name": "Substrate",
+            "version": "Latest",
+            "purpose": "L1 blockchain framework",
+            "confidence": 1.0
+          },
+          {
+            "name": "Polkadot",
+            "purpose": "Relay chain for parachain slot (shared security and interoperability)",
+            "confidence": 1.0
+          },
+          {
+            "name": "Kusama",
+            "purpose": "Alternative relay chain (strategic focus on Polkadot)",
+            "confidence": 0.85
+          },
+          {
+            "name": "Integritee",
+            "purpose": "TEE sidechain framework for SGX worker implementation",
+            "confidence": 1.0
+          }
+        ],
+        "key_dependencies": [
+          {
+            "name": "Intel SGX SDK",
+            "purpose": "Trusted Execution Environment implementation",
+            "configuration": "SGX_MODE=SW for development, /opt/intel/sgxsdk/environment"
+          },
+          {
+            "name": "Substrate pallets",
+            "purpose": "Modular runtime components (governance, balance, parachain-system, etc.)"
+          },
+          {
+            "name": "incubator-mesatee-sgx",
+            "purpose": "Rust SGX SDK for writing Intel SGX applications in Rust",
+            "source": "https://github.com/litentry/incubator-mesatee-sgx"
+          },
+          {
+            "name": "tee-sgx-sdk",
+            "purpose": "SGX pallet compilation to WASM blob/binary"
+          },
+          {
+            "name": "Zombienet",
+            "purpose": "Local network deployment and testing"
+          }
+        ],
+        "build_system": [
+          "Cargo (Rust package manager)",
+          "Makefile-based build processes",
+          "worker-log-level-config.toml for RUST_LOG configuration"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      {
+        "primary_approach": "Trusted Execution Environment (TEE)",
+        "techniques": [
+          {
+            "technique": "Intel SGX (Software Guard Extensions)",
+            "implementation_details": [
+              "Hardware-based secure enclaves isolated from host system",
+              "TEE sidechain for confidential execution",
+              "SGX runtime enables integration of Substrate-compatible pallets",
+              "Private keys stored only in SGX nodes",
+              "Encrypted extrinsic parameters/addresses in parachain",
+              "Data decryption and dispatch within SGX enclave"
+            ],
+            "purpose": "Privacy-preserving identity aggregation and credential issuance",
+            "confidence": 1.0
+          },
+          {
+            "technique": "Verifiable Credentials (VC)",
+            "implementation_details": [
+              "W3C DID standards compliant",
+              "Identity Hub (IDHub) as onchain VC registry on Litentry Parachain",
+              "Trustless workflow for VC issuance and verification",
+              "Digital signatures and cryptographic proofs",
+              "Minimal disclosure principle",
+              "Tamper-evident credential storage"
+            ],
+            "purpose": "Decentralized identity verification without exposing user data",
+            "confidence": 1.0
+          },
+          {
+            "technique": "Decentralized Identifiers (DIDs)",
+            "implementation_details": [
+              "W3C DID v1.0 specification compliance",
+              "DID aggregation across multiple blockchains",
+              "Platform-agnostic identification system",
+              "DID indexing protocol",
+              "Substrate-based DID validation blockchain"
+            ],
+            "purpose": "Cross-chain identity management without centralized registries",
+            "confidence": 1.0
+          },
+          {
+            "technique": "Encrypted Communication",
+            "implementation_details": [
+              "Client-to-TEE encrypted interactions",
+              "Three call types: Trusted calls, Direct calls, Indirect calls",
+              "Encrypted runtime calls sent through Teerex Pallet",
+              "Worker node block synchronization for call parsing"
+            ],
+            "purpose": "Secure data transmission between clients and TEE workers",
+            "confidence": 0.95
+          },
+          {
+            "technique": "Privacy Data Segregation",
+            "implementation_details": [
+              "Privacy data stored in SGX nodes only",
+              "ID graph linking performed within TEE",
+              "Assertion verification in isolated environment",
+              "Public parachain state separated from private TEE state"
+            ],
+            "purpose": "Data isolation and privacy protection",
+            "confidence": 1.0
+          }
+        ],
+        "architecture": {
+          "layer_1": {
+            "name": "Parachain Layer",
+            "components": [
+              "Litentry Parachain",
+              "Litmus Parachain"
+            ],
+            "purpose": "Application-specific blockchains with relay chain integration",
+            "characteristics": [
+              "Shared security",
+              "XCM message handling",
+              "Public state visibility"
+            ]
+          },
+          "layer_2": {
+            "name": "TEE Sidechain",
+            "components": [
+              "Integritee-based workers",
+              "SGX runtime"
+            ],
+            "purpose": "Confidential execution environment for privacy-sensitive operations",
+            "characteristics": [
+              "Private state",
+              "SGX secure enclaves",
+              "Off-chain computation"
+            ]
+          },
+          "layer_3": {
+            "name": "Relay Chain",
+            "components": [
+              "Polkadot",
+              "Kusama"
+            ],
+            "purpose": "Shared security and parachain coordination",
+            "characteristics": [
+              "Block validation",
+              "Cross-chain messaging",
+              "Network consensus"
+            ]
+          }
+        },
+        "tee_vs_zkp_rationale": {
+          "chosen_approach": "TEE (Trusted Execution Environment)",
+          "reasons": [
+            "Speed: TEE provides faster execution than zero-knowledge proof cryptographic processes",
+            "Versatility: Secure CPU area enables broad use cases",
+            "Efficiency: Lower computational overhead for identity operations",
+            "Practicality: Better suited for verifiable credential transmission and confidential communications"
+          ],
+          "zkp_consideration": "Zero-knowledge proofs involve more complex and time-consuming cryptographic processes, though both technologies achieve similar privacy results",
+          "confidence": 0.95
+        }
+      }
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 262826,
+    "languages": {
+      "solidity": 70,
+      "rust": 1208,
+      "typescript": 250,
+      "javascript": 11,
+      "go": 0,
+      "python": 6
+    },
+    "smart_contracts_found": 70,
+    "test_files_found": 343,
+    "has_documentation": true,
+    "analysis_timestamp": "2025-10-10T15:39:55Z",
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "TEE worker based on integritee-network/worker framework",
+  "project_description": "TEE worker based on integritee-network/worker framework",
+  "github_repository": "https://github.com/litentry/litentry-parachain",
+  "github_url": "https://github.com/litentry/litentry-parachain",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/litentry/litentry-parachain"
+    }
+  }
+}

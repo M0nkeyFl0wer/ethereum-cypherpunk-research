@@ -1,0 +1,29 @@
+{
+  "project": "scroll",
+  "repository": "https://github.com/scroll-tech/scroll",
+  "analysis_timestamp": "2025-10-10T15:40:07Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 1,
+    "rust": 20,
+    "typescript": 0,
+    "javascript": 0,
+    "go": 223,
+    "python": 0
+  },
+  "total_files": 471,
+  "total_lines_of_code": 36344,
+  "smart_contracts_found": 1,
+  "dependencies": {
+    "npm": false,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 78,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 12
+  },
+  "analysis_status": "completed"
+}

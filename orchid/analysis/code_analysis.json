@@ -1,0 +1,29 @@
+{
+  "project": "orchid",
+  "repository": "https://github.com/OrchidTechnologies/orchid",
+  "analysis_timestamp": "2025-10-10T15:40:07Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 13,
+    "rust": 1,
+    "typescript": 17,
+    "javascript": 2,
+    "go": 0,
+    "python": 100
+  },
+  "total_files": 1665,
+  "total_lines_of_code": 20182,
+  "smart_contracts_found": 13,
+  "dependencies": {
+    "npm": false,
+    "cargo": false,
+    "go_modules": false
+  },
+  "test_files_found": 68,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 20
+  },
+  "analysis_status": "completed"
+}

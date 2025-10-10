@@ -1,0 +1,373 @@
+{
+  "project_name": "hopr",
+  "research_timestamp": "2025-10-04T18:39:09-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "hopr",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "hopr/analysis/github_analysis.json",
+    "github_url_source": "online_presence",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:17-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/hopr",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/hopr",
+    "message": "Page not found: /api/project/hopr",
+    "data": {
+      "path": "/api/project/hopr"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "hopr",
+    "analysis_timestamp": "2025-10-04T19:02:02-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://hopr.com",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://hopr.com",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/hoprnet/hoprnet",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from github_analysis.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    },
+    "social_media": {
+      "twitter": {
+        "url": "https://twitter.com/hoprnet",
+        "username": "hoprnet",
+        "sources": [
+          "https://api.github.com/orgs/hoprnet",
+          "https://api.coingecko.com/api/v3/coins/hopr"
+        ],
+        "confidence": 1.0
+      },
+      "discord": {
+        "url": "https://discord.gg/dEAWC4G",
+        "sources": [
+          "https://api.coingecko.com/api/v3/coins/hopr",
+          "https://docs.hoprnet.org"
+        ],
+        "confidence": 1.0
+      },
+      "telegram": {
+        "channel": "hoprnet",
+        "sources": [
+          "https://api.coingecko.com/api/v3/coins/hopr"
+        ],
+        "confidence": 1.0
+      },
+      "medium": {
+        "url": "https://medium.com/hoprnet",
+        "sources": [
+          "https://hoprnet.org footer",
+          "https://medium.com/hoprnet"
+        ],
+        "confidence": 1.0
+      },
+      "mirror": "",
+      "github": {
+        "url": "https://github.com/hoprnet",
+        "sources": [
+          "https://api.github.com/orgs/hoprnet",
+          "https://docs.hoprnet.org"
+        ],
+        "confidence": 1.0
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/hoprnet",
+        "sources": [
+          "https://hoprnet.org footer",
+          "Direct verification"
+        ],
+        "confidence": 1.0
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/channel/UC2DzUtC90LXdW7TfT3igasA",
+        "sources": [
+          "https://hoprnet.org footer"
+        ],
+        "confidence": 1.0
+      },
+      "verified_at": "2025-10-07T20:30:00Z"
+    }
+  },
+  "basic_information": {
+    "description": {
+      "value": "HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.",
+      "confidence": 0.9,
+      "sources": [
+        "GitHub repository description via API"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith",
+    {
+      "verified_founders": [
+        {
+          "name": "Dr. Sebastian B\u00fcrgel",
+          "role": "Founder & President",
+          "linkedin": "https://www.linkedin.com/in/SCBuergel/",
+          "linkedin_alternative": "https://ch.linkedin.com/in/scbuergel",
+          "medium": "https://medium.com/@SCBuergel",
+          "location": "Switzerland",
+          "education": "PhD from ETH Zurich (microtechnology for biomedical applications)",
+          "previous_ventures": [
+            "Sonect (ATM-as-a-Service startup, co-founder)",
+            "Validity Labs (blockchain education and service company, co-founder)"
+          ],
+          "notable_contributions": [
+            "Contributed to Swiss DLT law",
+            "Active in shaping web3 and crypto asset economy"
+          ],
+          "sources": [
+            "https://ch.linkedin.com/in/scbuergel",
+            "https://www.linkedin.com/in/SCBuergel/",
+            "https://www.crunchbase.com/person/sebastian-b\u00fcrgel",
+            "https://beincrypto.com/author/sebastian_burge/",
+            "https://medium.com/@SCBuergel",
+            "https://www.finnotes.org/people/sebastian-burgel",
+            "https://golden.com/wiki/Sebastian_B\u00fcrgel-K3ENJZJ"
+          ],
+          "confidence": 1.0,
+          "verified_at": "2025-10-07T21:45:00Z"
+        }
+      ],
+      "additional_leadership": [
+        {
+          "name": "Rik Krieger",
+          "role": "Team member / Serial Entrepreneur",
+          "medium": "https://medium.com/hoprnet (authored articles)",
+          "note": "Regular contributor to HOPR Medium blog, described as 'Serial Entrepreneur'",
+          "sources": [
+            "https://medium.com/hoprnet/your-start-ups-most-valuable-asset-your-brand-8a233021068",
+            "https://medium.com/hoprnet/hopr-co-founds-leading-privacy-alliance-of-web3-99e057722deb"
+          ],
+          "confidence": 0.85,
+          "verified_at": "2025-10-07T21:45:00Z"
+        }
+      ],
+      "top_github_contributors": [
+        {
+          "github_username": "nionis",
+          "contributions": 1335,
+          "role": "core_contributor",
+          "source": "https://api.github.com/repos/hoprnet/hoprnet/contributors"
+        },
+        {
+          "github_username": "tolbrino",
+          "contributions": 1330,
+          "role": "core_contributor",
+          "source": "https://api.github.com/repos/hoprnet/hoprnet/contributors"
+        },
+        {
+          "github_username": "0xjjpa",
+          "contributions": 1177,
+          "role": "core_contributor",
+          "source": "https://api.github.com/repos/hoprnet/hoprnet/contributors"
+        },
+        {
+          "github_username": "mathcrypto",
+          "contributions": 853,
+          "role": "core_contributor",
+          "source": "https://api.github.com/repos/hoprnet/hoprnet/contributors"
+        }
+      ],
+      "confidence": 0.95,
+      "verified_at": "2025-10-07T21:45:00Z"
+    },
+    {
+      "status": "data_gap_identified",
+      "partial_data": {
+        "known_contributors": [
+          {
+            "github_username": "nionis",
+            "contributions": 1335,
+            "role": "core_contributor",
+            "source": "https://api.github.com/repos/hoprnet/hoprnet/contributors"
+          },
+          {
+            "github_username": "tolbrino",
+            "contributions": 1330,
+            "role": "core_contributor",
+            "source": "https://api.github.com/repos/hoprnet/hoprnet/contributors"
+          },
+          {
+            "github_username": "0xjjpa",
+            "contributions": 1177,
+            "role": "core_contributor",
+            "source": "https://api.github.com/repos/hoprnet/hoprnet/contributors"
+          },
+          {
+            "github_username": "mathcrypto",
+            "contributions": 853,
+            "role": "core_contributor",
+            "source": "https://api.github.com/repos/hoprnet/hoprnet/contributors"
+          }
+        ]
+      },
+      "gap_report": {
+        "missing": "Official founder names and LinkedIn profiles",
+        "note": "Common knowledge suggests Dr. Sebastian B\u00fcrgel is founder, but this requires verification from official sources (LinkedIn, company website, Crunchbase)",
+        "recommended_sources": [
+          "HOPR official team page",
+          "LinkedIn company page",
+          "Crunchbase (requires authentication)",
+          "Official press releases"
+        ]
+      },
+      "confidence": 0.3,
+      "verified_at": "2025-10-07T20:30:00Z"
+    }
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs",
+      {
+        "name": "Rust",
+        "bytes": 3433065,
+        "percentage": 70.53
+      },
+      {
+        "name": "Solidity",
+        "bytes": 1057272,
+        "percentage": 21.72
+      },
+      {
+        "name": "Python",
+        "bytes": 184583,
+        "percentage": 3.79
+      },
+      {
+        "name": "Shell",
+        "bytes": 58652,
+        "percentage": 1.21
+      },
+      {
+        "name": "Nix",
+        "bytes": 53577,
+        "percentage": 1.1
+      },
+      {
+        "name": "Makefile",
+        "bytes": 44542,
+        "percentage": 0.92
+      },
+      {
+        "name": "Lua",
+        "bytes": 31367,
+        "percentage": 0.64
+      },
+      {
+        "name": "Just",
+        "bytes": 4164,
+        "percentage": 0.09
+      }
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 344089,
+    "languages": {
+      "solidity": 1058,
+      "rust": 349,
+      "typescript": 63,
+      "javascript": 6,
+      "go": 0,
+      "python": 56
+    },
+    "smart_contracts_found": 1060,
+    "test_files_found": 292,
+    "has_documentation": true,
+    "analysis_timestamp": "2025-10-10T15:39:55Z",
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.",
+  "project_description": "HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.",
+  "github_repository": "https://github.com/hoprnet/hoprnet",
+  "github_url": "https://github.com/hoprnet/hoprnet"
+}

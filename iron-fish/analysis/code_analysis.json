@@ -1,0 +1,29 @@
+{
+  "project": "iron-fish",
+  "repository": "https://github.com/iron-fish/ironfish",
+  "analysis_timestamp": "2025-10-10T15:39:57Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 102,
+    "typescript": 977,
+    "javascript": 21,
+    "go": 1,
+    "python": 0
+  },
+  "total_files": 1366,
+  "total_lines_of_code": 143676,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": true,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 344,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 26
+  },
+  "analysis_status": "completed"
+}

@@ -1,0 +1,29 @@
+{
+  "project": "zksync",
+  "repository": "https://github.com/matter-labs/zksync",
+  "analysis_timestamp": "2025-10-10T15:50:29Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 58,
+    "rust": 577,
+    "typescript": 128,
+    "javascript": 22,
+    "go": 0,
+    "python": 0
+  },
+  "total_files": 1183,
+  "total_lines_of_code": 167610,
+  "smart_contracts_found": 58,
+  "dependencies": {
+    "npm": true,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 237,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 31
+  },
+  "analysis_status": "completed"
+}

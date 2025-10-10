@@ -1,0 +1,126 @@
+{
+  "project_name": "sentinel",
+  "research_timestamp": "2025-10-04T18:39:34-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "sentinel",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "sentinel/analysis/github_analysis.json",
+    "github_url_source": "online_presence",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:26-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/sentinel",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/sentinel",
+    "message": "Page not found: /api/project/sentinel",
+    "data": {
+      "path": "/api/project/sentinel"
+    }
+  },
+  "market_data": {},
+  "website": "https://sentinel.network",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://sentinel.network",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/sentinel-official/sentinelhub",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from github_analysis.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    },
+    "social_media": {
+      "twitter": "",
+      "discord": "",
+      "telegram": "",
+      "medium": "",
+      "mirror": ""
+    }
+  },
+  "basic_information": {
+    "description": {
+      "value": "Blockchain core managing Sentinel network services, staking, and governance",
+      "confidence": 0.9,
+      "sources": [
+        "GitHub repository description via API"
+      ],
+      "verification_count": 1
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      {
+        "name": "Go",
+        "bytes": 796958,
+        "percentage": 99.48
+      },
+      {
+        "name": "Makefile",
+        "bytes": 2762,
+        "percentage": 0.34
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 1043,
+        "percentage": 0.13
+      },
+      {
+        "name": "Shell",
+        "bytes": 385,
+        "percentage": 0.05
+      }
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 164153,
+    "languages": {
+      "solidity": 0,
+      "rust": 0,
+      "typescript": 0,
+      "javascript": 0,
+      "go": 468,
+      "python": 0
+    },
+    "smart_contracts_found": 0,
+    "test_files_found": 20,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "Blockchain core managing Sentinel network services, staking, and governance",
+  "project_description": "Blockchain core managing Sentinel network services, staking, and governance",
+  "github_repository": "https://github.com/sentinel-official/sentinelhub",
+  "github_url": "https://github.com/sentinel-official/sentinelhub"
+}

@@ -1,0 +1,90 @@
+{
+  "project_name": "veramo",
+  "research_timestamp": "2025-10-04T18:39:42-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "veramo",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "research_source": "web_search_2025",
+    "research_confidence": 0.95,
+    "research_date": "2025-10-10",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 4
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:29-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/veramo",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/veramo",
+    "message": "Page not found: /api/project/veramo",
+    "data": {
+      "path": "/api/project/veramo"
+    }
+  },
+  "market_data": {},
+  "website": "https://veramo.io",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://veramo.io",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "basic_information": {
+    "description": {
+      "value": "JavaScript framework for verifiable data",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from project_metadata.json at description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "description": "Veramo is a JavaScript Framework for Verifiable Data that enables creation and management of decentralized identifiers and verifiable credentials without worrying about interop and vendor lock-in. The framework is built around a plugin system and runs on Node, Browsers, and React Native straight out of the box. Veramo supports flexible key management, storage, and multiple DID methods for building decentralized identity applications.",
+  "project_description": "Veramo is a JavaScript Framework for Verifiable Data that enables creation and management of decentralized identifiers and verifiable credentials without worrying about interop and vendor lock-in. The framework is built around a plugin system and runs on Node, Browsers, and React Native straight out of the box. Veramo supports flexible key management, storage, and multiple DID methods for building decentralized identity applications.",
+  "github_repository": "https://github.com/decentralized-identity/veramo",
+  "github_url": "https://github.com/decentralized-identity/veramo",
+  "online_presence": {
+    "website": "https://veramo.io",
+    "github": {
+      "url": "https://github.com/decentralized-identity/veramo"
+    }
+  },
+  "code_analysis": {
+    "total_lines_of_code": 54725,
+    "total_files": 635,
+    "languages": {
+      "solidity": 0,
+      "rust": 0,
+      "typescript": 331,
+      "javascript": 2,
+      "go": 0,
+      "python": 0
+    },
+    "smart_contracts_found": 0,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  }
+}

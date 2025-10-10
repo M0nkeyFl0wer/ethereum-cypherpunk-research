@@ -1,0 +1,29 @@
+{
+  "project": "dark-forest",
+  "repository": "https://github.com/darkforest-eth/darkforest-v0.3",
+  "analysis_timestamp": "2025-10-10T16:21:00Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 13,
+    "rust": 0,
+    "typescript": 84,
+    "javascript": 14,
+    "go": 0,
+    "python": 0
+  },
+  "total_files": 290,
+  "total_lines_of_code": 24273,
+  "smart_contracts_found": 13,
+  "dependencies": {
+    "npm": true,
+    "cargo": false,
+    "go_modules": false
+  },
+  "test_files_found": 9,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 3
+  },
+  "analysis_status": "completed"
+}

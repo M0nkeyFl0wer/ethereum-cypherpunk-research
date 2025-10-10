@@ -1,0 +1,165 @@
+{
+  "project_name": "concordium",
+  "research_timestamp": "2025-10-04T18:38:59-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "concordium",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "concordium/sources/research_gaps.json",
+    "github_url_source": "analysis_file",
+    "github_url_confidence": 0.95,
+    "github_sources_count": 1
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:12-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/concordium",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/concordium",
+    "message": "Page not found: /api/project/concordium",
+    "data": {
+      "path": "/api/project/concordium"
+    }
+  },
+  "market_data": {},
+  "website": "https://concordium.com",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://concordium.com",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "basic_information": {
+    "description": {
+      "value": "A privacy-focused, public, and permissionless Layer-1 blockchain with protocol-level identity verification, zero-knowledge proofs, and built-in compliance features. First blockchain with built-in identity verification at the protocol level.",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at basic_information.description.value"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    {
+      "value": [
+        {
+          "name": "Lars Seier Christensen",
+          "role": "Founder and Chairman of Concordium Foundation Board",
+          "background": "Co-founder and former CEO of Saxo Bank",
+          "linkedin": "NOT_FOUND",
+          "sources": [
+            "https://www.concordium.com/article/concordiums-founder-lars-seier-christensen-takes-an-expanded-role-in-concordium",
+            "https://www.concordium.com/about-us"
+          ],
+          "confidence": 0.95,
+          "verified": true
+        }
+      ],
+      "confidence": 0.85,
+      "verified": true,
+      "verification_date": "2025-10-07",
+      "notes": "Primary founder verified. Additional co-founders may exist but not explicitly mentioned in search results."
+    }
+  ],
+  "online_presence": {
+    "social_media": {
+      "twitter": "",
+      "discord": "",
+      "telegram": "",
+      "medium": "",
+      "mirror": "",
+      "status": "DATA_GAP",
+      "note": "Social media links not extracted from search results. Search tools encountered errors.",
+      "confidence": 0.0,
+      "gap_reported": true,
+      "recommended_sources": [
+        "https://www.concordium.com/ footer",
+        "LinkedIn company page: https://www.linkedin.com/company/concordium/",
+        "GitHub organization page"
+      ],
+      "partial_data": {
+        "linkedin": {
+          "value": "https://www.linkedin.com/company/concordium/",
+          "confidence": 1.0,
+          "verified": true,
+          "source": "https://www.linkedin.com/company/concordium/"
+        }
+      }
+    },
+    "github": {
+      "url": "https://github.com/Concordium/concordium-node"
+    }
+  },
+  "funding_and_business": {
+    "status": "DATA_GAP",
+    "note": "Funding rounds and investor information not found in initial search results. Requires deeper research.",
+    "confidence": 0.0,
+    "gap_reported": true,
+    "recommended_sources": [
+      "CrunchBase",
+      "PitchBook",
+      "Concordium press releases",
+      "Blockchain Founders Group partnership announcement"
+    ],
+    "partial_info": {
+      "partnership": "Concordium partners with Blockchain Founders Group (BFG) for co-investment in Web3 startups",
+      "source": "https://www.linkedin.com/posts/blockchain-founders_concordium-partners-with-bfg-for-co-investment-activity-7154767081018662912-W-d1",
+      "confidence": 0.7
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      "Haskell",
+      "Rust",
+      "Shell",
+      "Objective-C",
+      "Dockerfile",
+      "AppleScript",
+      "PowerShell",
+      "Makefile",
+      "C"
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 22278,
+    "languages": {
+      "solidity": 0,
+      "rust": 56,
+      "typescript": 0,
+      "javascript": 0,
+      "go": 0,
+      "python": 0
+    },
+    "smart_contracts_found": 0,
+    "test_files_found": 145,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "Official logo URL/image not extracted from search results",
+  "project_description": "Official logo URL/image not extracted from search results",
+  "github_repository": "https://github.com/Concordium/concordium-node",
+  "github_url": "https://github.com/Concordium/concordium-node"
+}

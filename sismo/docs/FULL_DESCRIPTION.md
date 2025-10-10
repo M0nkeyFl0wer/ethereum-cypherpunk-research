@@ -1,0 +1,3 @@
+# Sismo - Project Overview
+
+Sismo is a privacy-preserving reputation protocol using zero-knowledge proofs for decentralized identity and authentication solutions. The protocol enables users to aggregate their web3 and web2 identities and selectively disclose personal data through ZK proofs. Core products include Sismo Badges (ZK attestation system with 160k+ badges minted by 65k+ users), Sismo Connect (crypto-native SSO), and Sismo Hub (off-chain infrastructure for Groups and Data Providers). Built on Ethereum with multi-chain support (Polygon, Gnosis) using the Hydra-S1 proving scheme.

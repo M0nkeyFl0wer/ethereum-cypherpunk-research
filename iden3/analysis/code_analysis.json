@@ -1,0 +1,29 @@
+{
+  "project": "iden3",
+  "repository": "https://github.com/iden3/iden3-docs",
+  "analysis_timestamp": "2025-10-10T15:39:54Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 0,
+    "typescript": 0,
+    "javascript": 0,
+    "go": 0,
+    "python": 5
+  },
+  "total_files": 135,
+  "total_lines_of_code": 1048,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": false,
+    "cargo": false,
+    "go_modules": false
+  },
+  "test_files_found": 0,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 3
+  },
+  "analysis_status": "completed"
+}

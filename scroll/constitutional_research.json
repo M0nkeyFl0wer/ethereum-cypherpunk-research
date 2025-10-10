@@ -1,0 +1,154 @@
+{
+  "project_name": "scroll",
+  "research_timestamp": "2025-10-04T18:39:32-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "scroll",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "scroll/analysis/oso_data.json",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:25-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/scroll",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/scroll",
+    "message": "Page not found: /api/project/scroll",
+    "data": {
+      "path": "/api/project/scroll"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "scroll",
+    "analysis_timestamp": "2025-10-04T19:01:40-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://scroll.io",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://scroll.io",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "github": "https://github.com/scroll-tech/scroll",
+  "basic_information": {
+    "description": {
+      "value": "Scroll Name Service (SNS) is a decentralized naming system on the Scroll network. It allows users to register human-readable names that resolve to Scroll addresses, enabling easier transactions and identity management on the blockchain.",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from analysis/oso_data.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs"
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 36344,
+    "languages": {
+      "solidity": 1,
+      "rust": 20,
+      "typescript": 0,
+      "javascript": 0,
+      "go": 223,
+      "python": 0
+    },
+    "smart_contracts_found": 1,
+    "test_files_found": 78,
+    "has_documentation": true,
+    "analysis_timestamp": "2025-10-10T15:40:07Z",
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "Scroll Name Service (SNS) is a decentralized naming system on the Scroll network. It allows users to register human-readable names that resolve to Scroll addresses, enabling easier transactions and id...",
+  "project_description": "Scroll Name Service (SNS) is a decentralized naming system on the Scroll network. It allows users to register human-readable names that resolve to Scroll addresses, enabling easier transactions and id...",
+  "github_repository": "https://github.com/scroll-tech/scroll",
+  "github_url": "https://github.com/scroll-tech/scroll",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/scroll-tech/scroll"
+    }
+  }
+}

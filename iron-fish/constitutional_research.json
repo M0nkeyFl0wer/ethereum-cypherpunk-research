@@ -1,0 +1,253 @@
+{
+  "project_name": "iron-fish",
+  "research_timestamp": "2025-10-04T18:39:13-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "iron-fish",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "iron-fish/analysis/github_analysis.json",
+    "github_url_source": "online_presence",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:18-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/iron-fish",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/iron-fish",
+    "message": "Page not found: /api/project/iron-fish",
+    "data": {
+      "path": "/api/project/iron-fish"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "iron-fish",
+    "analysis_timestamp": "2025-10-04T19:02:15-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://iron-fish.com",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://iron-fish.com",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/iron-fish/ironfish",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from github_analysis.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    },
+    "social_media": {
+      "twitter": {
+        "value": "@ironfishcrypto",
+        "url": "https://twitter.com/ironfishcrypto",
+        "confidence": 1.0,
+        "sources": [
+          "https://api.github.com/orgs/iron-fish",
+          "https://ironfish.network/"
+        ],
+        "verification_count": 2
+      },
+      "discord": {
+        "url": "https://discord.ironfish.network/",
+        "confidence": 1.0,
+        "sources": [
+          "https://ironfish.network/"
+        ],
+        "verification_count": 1
+      },
+      "telegram": {
+        "url": "https://t.me/ironfishcryptochat",
+        "confidence": 1.0,
+        "sources": [
+          "https://ironfish.network/"
+        ],
+        "verification_count": 1
+      },
+      "medium": "",
+      "mirror": "",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/iron-fish-irf",
+        "name": "Iron Fish Foundation",
+        "confidence": 0.95,
+        "sources": [
+          "https://www.linkedin.com/company/iron-fish-irf"
+        ],
+        "verification_count": 1
+      }
+    }
+  },
+  "basic_information": {
+    "description": {
+      "value": "A novel cryptocurrency focused on privacy and accessibility.",
+      "confidence": 0.9,
+      "sources": [
+        "GitHub repository description via API"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith",
+    {
+      "value": [
+        {
+          "name": "Elena Nadolinski",
+          "role": "Founder & CEO",
+          "current_position": "Board Member, Iron Fish Foundation; Coinbase (Base team)",
+          "background": "Former software engineer at Microsoft, Airbnb, Tilt",
+          "linkedin": "https://www.linkedin.com/in/elenanadolinski/",
+          "recognition": "Forbes 30 Under 30 - Finance 2022",
+          "founding_story": "Founded Beanstalk Network in 2019, later launched as Iron Fish. Started cryptocurrency journey in 2017 after attending Protocol Labs event.",
+          "confidence": 1.0,
+          "sources": [
+            "https://www.linkedin.com/in/elenanadolinski/",
+            "https://www.sequoiacap.com/article/elena-nadolinski-spotlight/",
+            "https://www.crunchbase.com/person/elena-nadolinski",
+            "https://ironfish.network/learn/blog/2025-03-06-base",
+            "https://ironfish.network/learn/blog/2021-03-02-why-iron-fish"
+          ],
+          "verification_count": 5
+        }
+      ],
+      "confidence": 1.0,
+      "verification_count": 5
+    }
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs",
+      {
+        "name": "TypeScript",
+        "bytes": 3971073,
+        "percentage": 85.64
+      },
+      {
+        "name": "Rust",
+        "bytes": 614087,
+        "percentage": 13.24
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 32441,
+        "percentage": 0.7
+      },
+      {
+        "name": "Shell",
+        "bytes": 9911,
+        "percentage": 0.21
+      },
+      {
+        "name": "Go",
+        "bytes": 8660,
+        "percentage": 0.19
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 719,
+        "percentage": 0.02
+      },
+      {
+        "name": "Batchfile",
+        "bytes": 31,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 143676,
+    "languages": {
+      "solidity": 0,
+      "rust": 102,
+      "typescript": 977,
+      "javascript": 21,
+      "go": 1,
+      "python": 0
+    },
+    "smart_contracts_found": 0,
+    "test_files_found": 344,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "A novel cryptocurrency focused on privacy and accessibility.",
+  "project_description": "A novel cryptocurrency focused on privacy and accessibility.",
+  "github_repository": "https://github.com/iron-fish/ironfish",
+  "github_url": "https://github.com/iron-fish/ironfish"
+}

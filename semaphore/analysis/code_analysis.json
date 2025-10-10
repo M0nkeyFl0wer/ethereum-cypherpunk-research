@@ -1,0 +1,29 @@
+{
+  "project": "semaphore",
+  "repository": "https://github.com/semaphore-protocol/semaphore",
+  "analysis_timestamp": "2025-10-10T15:50:29Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 14,
+    "rust": 0,
+    "typescript": 186,
+    "javascript": 11,
+    "go": 0,
+    "python": 0
+  },
+  "total_files": 615,
+  "total_lines_of_code": 10639,
+  "smart_contracts_found": 14,
+  "dependencies": {
+    "npm": true,
+    "cargo": false,
+    "go_modules": false
+  },
+  "test_files_found": 31,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 99
+  },
+  "analysis_status": "completed"
+}

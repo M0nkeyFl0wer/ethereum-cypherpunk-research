@@ -1,0 +1,29 @@
+{
+  "project": "fluidkey",
+  "repository": "https://github.com/fluidkey/fluidkey-stealth-account-kit",
+  "analysis_timestamp": "2025-10-10T18:44:18Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 0,
+    "typescript": 17,
+    "javascript": 0,
+    "go": 0,
+    "python": 0
+  },
+  "total_files": 68,
+  "total_lines_of_code": 1348,
+  "smart_contracts_found": 0,
+  "test_files_found": 8,
+  "dependencies": {
+    "npm": true,
+    "cargo": false,
+    "go_modules": false
+  },
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 3
+  },
+  "analysis_status": "completed"
+}

@@ -1,0 +1,154 @@
+{
+  "project_name": "labyrinth",
+  "research_timestamp": "2025-10-04T18:39:14-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "labyrinth",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "labyrinth/research_result.json",
+    "github_url_source": "web_search_2025",
+    "github_url_confidence": 0.6,
+    "github_research_date": "2025-10-10",
+    "github_note": "Account exists but no recent activity, uncertain if this is the correct project"
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:18-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/labyrinth",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/labyrinth",
+    "message": "Page not found: /api/project/labyrinth",
+    "data": {
+      "path": "/api/project/labyrinth"
+    }
+  },
+  "market_data": {},
+  "website": "https://labyrinth.xyz",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://labyrinth.xyz",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "basic_information": {
+    "description": {
+      "value": "INTBASE is a platform that hosted the \"INT BURN for AIRDROP\" event, allowing participants to burn $INT tokens in exchange for $100 in $pTAD each. The event was limited to the first 50 participants, with a maximum of 3 INT per wallet, and ran from September 1 to 15, 2024.",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from analysis/oso_data.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    }
+  },
+  "online_presence": {
+    "social_media": {
+      "twitter": [
+        {
+          "url": "https://twitter.com/INT4096BASE"
+        }
+      ],
+      "farcaster": [
+        {
+          "url": "https://warpcast.com/trou"
+        }
+      ]
+    },
+    "github": {
+      "url": "https://github.com/anonymouslabyrinth"
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      {
+        "programming_languages": [
+          "TypeScript",
+          "JavaScript",
+          "Solidity"
+        ],
+        "blockchain_platforms": [
+          "Ethereum",
+          "Optimism",
+          "EVM-compatible chains"
+        ],
+        "frameworks_and_tools": [
+          "Next.js",
+          "Circom (zkSNARK circuit compiler)",
+          "SnarkJS (zkSNARK implementation)",
+          "Hardhat (likely, based on DeFi context)",
+          "MetaMask Snap SDK",
+          "pnpm (package manager)"
+        ],
+        "smart_contract_platforms": [
+          "Solidity (EVM)",
+          "Uniswap V3 periphery (fork/integration)"
+        ],
+        "zk_libraries": [
+          "circomlibjs (JavaScript library for circomlib circuits)",
+          "snarkjs (zkSNARK proofs)"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      {
+        "zero_knowledge_proofs": {
+          "implemented": true,
+          "types": [
+            "zkSNARKs",
+            "zk-based queued Merkle trees"
+          ],
+          "description": "Core privacy mechanism using zero-knowledge proofs for shielded transactions",
+          "confidence": 1.0
+        },
+        "threshold_cryptography": {
+          "implemented": true,
+          "use_case": "Selective De-Anonymization (SeDe) compliance mechanism",
+          "description": "Threshold decryption for compliant selective de-anonymization with multiple trusted revokers",
+          "confidence": 0.9
+        },
+        "multi_party_computation": {
+          "implemented": "likely",
+          "evidence": "Threshold cryptography suggests MPC usage for distributed trust in compliance network",
+          "confidence": 0.7
+        },
+        "additional_techniques": [
+          "Shielded accounts",
+          "Blinded addresses",
+          "Account abstraction",
+          "Note system (similar to Zcash)",
+          "JoinSplits for transaction privacy",
+          "Merkle tree architecture"
+        ]
+      }
+    ]
+  },
+  "description": "Multichain Modular Privacy Framework with a Decentralized Compliance Network",
+  "project_description": "Multichain Modular Privacy Framework with a Decentralized Compliance Network",
+  "github_repository": "https://github.com/anonymouslabyrinth",
+  "github_url": "https://github.com/anonymouslabyrinth",
+  "github": "https://github.com/anonymouslabyrinth"
+}

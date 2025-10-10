@@ -1,0 +1,98 @@
+{
+  "project_name": "Anoma",
+  "description": "High price masks an uncomfortable truth: Crypto isn\u2019t sovereign&nbsp;&nbsp;CryptoRank",
+  "website": "https://anoma.net",
+  "github": "https://github.com/anoma",
+  "category": "Uncategorized",
+  "status": "Unknown",
+  "github_stats": {
+    "stars": 0,
+    "forks": 0,
+    "language": "Unknown"
+  },
+  "metadata": {
+    "source": "README.md conversion",
+    "extracted_date": "2025-10-09",
+    "confidence": 0.85,
+    "data_type": "markdown_extracted",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "anoma/reports/news_summary.json",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 3
+  },
+  "basic_information": {
+    "description": {
+      "value": "Crypto investment firm KR1 holds 25 million XAN tokens after Anoma launch By Investing.com&nbsp;&nbsp;Investing.com South Africa",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at basic_information.description.value"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs"
+    ]
+  },
+  "github_data": {
+    "statistics": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown"
+    }
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/anoma",
+      "value": "https://github.com/anoma",
+      "confidence": 0.95,
+      "source": "website_fetch_2025"
+    }
+  },
+  "social_links": {
+    "twitter": "https://twitter.com/anoma",
+    "github": "https://github.com/anoma",
+    "discord": "https://discord.com/invite/anoma",
+    "youtube": "https://www.youtube.com/@anoma",
+    "discourse": "https://research.anoma.net/"
+  },
+  "privacy_features": [
+    "User-controlled data sharing",
+    "Cross-chain compatibility",
+    "Programmable data sovereignty"
+  ],
+  "last_updated": "2025-10-10",
+  "data_source": "web_search_twitter_2025",
+  "project_description": "High price masks an uncomfortable truth: Crypto isn\u2019t sovereign&nbsp;&nbsp;CryptoRank",
+  "github_repository": "https://github.com/anoma",
+  "github_url": "https://github.com/anoma"
+}

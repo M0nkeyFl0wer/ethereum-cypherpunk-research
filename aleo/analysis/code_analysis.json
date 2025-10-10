@@ -1,0 +1,29 @@
+{
+  "project": "aleo",
+  "repository": "https://github.com/AleoHQ/snarkOS",
+  "analysis_timestamp": "2025-10-10T16:21:00Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 183,
+    "typescript": 0,
+    "javascript": 1,
+    "go": 0,
+    "python": 1
+  },
+  "total_files": 325,
+  "total_lines_of_code": 47535,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": false,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 33,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 46
+  },
+  "analysis_status": "completed"
+}

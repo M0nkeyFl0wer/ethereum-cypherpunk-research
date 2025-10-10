@@ -1,0 +1,210 @@
+{
+  "critical_missing_both": [
+    {
+      "name": "darkfi"
+    },
+    {
+      "name": "nillion"
+    },
+    {
+      "name": "fluidkey"
+    },
+    {
+      "name": "incognito"
+    },
+    {
+      "name": "mina-protocol"
+    },
+    {
+      "name": "zion"
+    },
+    {
+      "name": "findora"
+    },
+    {
+      "name": "veramo"
+    }
+  ],
+  "missing_description_only": [
+    {
+      "name": "semaphore"
+    },
+    {
+      "name": "light-protocol"
+    },
+    {
+      "name": "orchid"
+    },
+    {
+      "name": "edge-wallet"
+    },
+    {
+      "name": "zecrey"
+    },
+    {
+      "name": "zcash"
+    },
+    {
+      "name": "elusiv"
+    },
+    {
+      "name": "iden3"
+    },
+    {
+      "name": "tornado-cash"
+    },
+    {
+      "name": "suterusu"
+    },
+    {
+      "name": "zano"
+    },
+    {
+      "name": "wasabi-wallet"
+    },
+    {
+      "name": "iron-fish"
+    },
+    {
+      "name": "frame"
+    },
+    {
+      "name": "penumbra"
+    },
+    {
+      "name": "railgun"
+    },
+    {
+      "name": "litentry"
+    },
+    {
+      "name": "rotki"
+    },
+    {
+      "name": "zkvote"
+    },
+    {
+      "name": "firo"
+    },
+    {
+      "name": "iexec"
+    },
+    {
+      "name": "starkex"
+    },
+    {
+      "name": "anoma"
+    },
+    {
+      "name": "scroll"
+    },
+    {
+      "name": "dark-forest"
+    },
+    {
+      "name": "oxen"
+    },
+    {
+      "name": "ten"
+    },
+    {
+      "name": "mobilecoin"
+    },
+    {
+      "name": "labyrinth"
+    },
+    {
+      "name": "fileverse"
+    },
+    {
+      "name": "zeal"
+    },
+    {
+      "name": "monero"
+    },
+    {
+      "name": "concordium"
+    },
+    {
+      "name": "aleo"
+    },
+    {
+      "name": "zksync"
+    },
+    {
+      "name": "oasis-network"
+    },
+    {
+      "name": "hopr"
+    },
+    {
+      "name": "manta-network"
+    },
+    {
+      "name": "sentinel"
+    },
+    {
+      "name": "sismo"
+    }
+  ],
+  "missing_code_analysis_only": [
+    {
+      "name": "1inch-privacy"
+    },
+    {
+      "name": "curve-privacy"
+    },
+    {
+      "name": "starknet"
+    },
+    {
+      "name": "--target"
+    },
+    {
+      "name": "brave-browser"
+    },
+    {
+      "name": "metamask-snaps"
+    },
+    {
+      "name": "gitcoin-grants"
+    },
+    {
+      "name": "maci"
+    },
+    {
+      "name": "farcaster"
+    },
+    {
+      "name": "pse--privacy---scaling-explorations-"
+    },
+    {
+      "name": "snapshot-x"
+    },
+    {
+      "name": "cake-wallet"
+    },
+    {
+      "name": "zkp2p"
+    },
+    {
+      "name": "lens-protocol"
+    },
+    {
+      "name": "railway-wallet"
+    },
+    {
+      "name": "eth2-deposit-cli"
+    },
+    {
+      "name": "zkbob"
+    }
+  ],
+  "summary": {
+    "total_projects": 86,
+    "missing_both": 8,
+    "missing_description": 40,
+    "missing_code": 17,
+    "complete": 21
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project": "nym",
+  "repository": "https://github.com/nymtech/nym",
+  "analysis_timestamp": "2025-10-10T15:50:36Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 2076,
+    "typescript": 862,
+    "javascript": 113,
+    "go": 30,
+    "python": 14
+  },
+  "total_files": 5131,
+  "total_lines_of_code": 64816,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": true,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 209,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 210
+  },
+  "analysis_status": "completed"
+}

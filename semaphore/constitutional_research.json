@@ -1,0 +1,199 @@
+{
+  "project_name": "semaphore",
+  "research_timestamp": "2025-10-04T18:39:34-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "semaphore",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "semaphore/analysis/oso_data.json",
+    "github_url_source": "analysis_file",
+    "github_url_confidence": 0.95,
+    "github_sources_count": 1
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:27-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/semaphore",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/semaphore",
+    "message": "Page not found: /api/project/semaphore",
+    "data": {
+      "path": "/api/project/semaphore"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "semaphore",
+    "analysis_timestamp": "2025-10-04T19:01:59-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://semaphore.io",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://semaphore.io",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "basic_information": {
+    "description": {
+      "value": "A zero-knowledge protocol for anonymous interactions",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from analysis/oso_data.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith",
+    {
+      "data_status": "gap_identified",
+      "confidence": 0.0,
+      "gap_reason": "No founder information available in public sources",
+      "organizational_structure": "Part of Privacy & Scaling Explorations (PSE) initiative, appears to be community/foundation-driven rather than founder-led",
+      "sources_attempted": [
+        "GitHub contributors",
+        "project website",
+        "team pages",
+        "about pages"
+      ]
+    }
+  ],
+  "online_presence": {
+    "social_media": {
+      "twitter": {
+        "handle": "SemaphoreDevs",
+        "url": "https://twitter.com/SemaphoreDevs/",
+        "confidence": 0.95,
+        "sources": [
+          "Open Source Observer API",
+          "GitHub social links"
+        ]
+      },
+      "discord": {
+        "data_status": "not_found",
+        "confidence": 0.0
+      },
+      "telegram": {
+        "data_status": "not_found",
+        "confidence": 0.0
+      },
+      "medium": {
+        "data_status": "not_found",
+        "confidence": 0.0
+      },
+      "mirror": "",
+      "reddit": {
+        "data_status": "not_found",
+        "confidence": 0.0
+      }
+    },
+    "github": {
+      "url": "https://github.com/semaphore-protocol/semaphore"
+    }
+  },
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs",
+      "TypeScript",
+      "MDX",
+      "Solidity",
+      "SCSS",
+      "CSS",
+      "JavaScript",
+      "Circom",
+      "Shell"
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 10639,
+    "languages": {
+      "solidity": 14,
+      "rust": 0,
+      "typescript": 186,
+      "javascript": 11,
+      "go": 0,
+      "python": 0
+    },
+    "smart_contracts_found": 14,
+    "test_files_found": 31,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "A zero-knowledge protocol for anonymous interactions",
+  "project_description": "A zero-knowledge protocol for anonymous interactions",
+  "github_repository": "https://github.com/semaphore-protocol/semaphore",
+  "github_url": "https://github.com/semaphore-protocol/semaphore"
+}

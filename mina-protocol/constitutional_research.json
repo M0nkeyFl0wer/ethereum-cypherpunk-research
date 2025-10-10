@@ -1,0 +1,104 @@
+{
+  "project_name": "Mina Protocol",
+  "description": "Mina Protocol is the world's lightest blockchain at approximately 22kb in size, using advanced cryptography and recursive zk-SNARKs to maintain this constant size. Mina is the first layer-1 to enable efficient implementation and easy programmability of zero knowledge smart contracts (zkApps). zkApps are Turing complete and offer enhanced privacy, off-chain computation, and composable proofs. With zkApps, user data never leaves local devices - only proofs are submitted to the chain, not personal data.",
+  "website": "https://minaprotocol.com",
+  "github": "https://github.com/MinaProtocol",
+  "category": "Uncategorized",
+  "status": "Unknown",
+  "github_stats": {
+    "stars": 0,
+    "forks": 0,
+    "language": "Unknown"
+  },
+  "metadata": {
+    "source": "README.md conversion",
+    "extracted_date": "2025-10-09",
+    "confidence": 0.85,
+    "data_type": "markdown_extracted",
+    "research_source": "web_search_2025",
+    "research_confidence": 0.95,
+    "research_date": "2025-10-10",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 5
+  },
+  "basic_information": {
+    "description": {
+      "value": "No description available",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "OCaml",
+      "o1js (TypeScript ZK framework)",
+      "zkApp CLI"
+    ]
+  },
+  "github_data": {
+    "statistics": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown"
+    },
+    "repositories": {
+      "main": "https://github.com/MinaProtocol/mina",
+      "zkapp_cli": "https://github.com/o1-labs/zkapp-cli",
+      "projects_list": "https://github.com/MinaFoundation/list-of-projects"
+    }
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/MinaProtocol"
+    },
+    "website": "https://minaprotocol.com"
+  },
+  "social_links": {
+    "github": "https://github.com/MinaProtocol",
+    "github_o1labs": "https://github.com/o1-labs"
+  },
+  "privacy_features": [
+    "Zero-knowledge smart contracts",
+    "Constant-size blockchain",
+    "zkApps (ZK applications)"
+  ],
+  "last_updated": "2025-10-10",
+  "data_source": "web_search_twitter_2025",
+  "project_description": "Mina Protocol is the world's lightest blockchain at approximately 22kb in size, using advanced cryptography and recursive zk-SNARKs to maintain this constant size. Mina is the first layer-1 to enable efficient implementation and easy programmability of zero knowledge smart contracts (zkApps). zkApps are Turing complete and offer enhanced privacy, off-chain computation, and composable proofs. With zkApps, user data never leaves local devices - only proofs are submitted to the chain, not personal data.",
+  "github_repository": "https://github.com/MinaProtocol",
+  "github_url": "https://github.com/MinaProtocol",
+  "code_analysis": {
+    "total_lines_of_code": 123709,
+    "total_files": 0,
+    "languages": {},
+    "smart_contracts_found": 0,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  }
+}

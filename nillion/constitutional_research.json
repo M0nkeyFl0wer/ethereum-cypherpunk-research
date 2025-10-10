@@ -1,0 +1,83 @@
+{
+  "project_name": "nillion",
+  "research_timestamp": "2025-10-04T18:39:20-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "nillion",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "research_source": "web_search_2025",
+    "research_confidence": 0.95,
+    "research_date": "2025-10-10",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 4
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:21-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/nillion",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/nillion",
+    "message": "Page not found: /api/project/nillion",
+    "data": {
+      "path": "/api/project/nillion"
+    }
+  },
+  "market_data": {},
+  "website": "https://nillion.com",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://nillion.io",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "basic_information": {
+    "description": {
+      "value": "Humanity&#039;s first blind computer for high value data",
+      "confidence": 0.85,
+      "sources": [
+        "Website meta description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "description": "Nillion is a secure computation network that decentralizes trust for high value data, building humanity's first 'blind computer'. The network enables blind computing through coordination of privacy enhancing technologies (PETs) such as multi-party computation (MPC), fully homomorphic encryption (FHE) and zero-knowledge proofs. Users store and process data in the network by masking it with preprocessed blinding factors, generating Information-Theoretic Secure (ITS) particles. This allows for the creation of an ecosystem of applications co-operating without having to reveal sensitive information.",
+  "project_description": "Nillion is a secure computation network that decentralizes trust for high value data, building humanity's first 'blind computer'. The network enables blind computing through coordination of privacy enhancing technologies (PETs) such as multi-party computation (MPC), fully homomorphic encryption (FHE) and zero-knowledge proofs. Users store and process data in the network by masking it with preprocessed blinding factors, generating Information-Theoretic Secure (ITS) particles. This allows for the creation of an ecosystem of applications co-operating without having to reveal sensitive information.",
+  "github_repository": "https://github.com/NillionNetwork",
+  "github_url": "https://github.com/NillionNetwork",
+  "online_presence": {
+    "website": "https://nillion.com",
+    "github": {
+      "url": "https://github.com/NillionNetwork"
+    }
+  },
+  "code_analysis": {
+    "total_lines_of_code": 417,
+    "total_files": 0,
+    "languages": {},
+    "smart_contracts_found": 0,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  }
+}

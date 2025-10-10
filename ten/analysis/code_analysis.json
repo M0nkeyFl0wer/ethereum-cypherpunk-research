@@ -1,0 +1,29 @@
+{
+  "project": "ten",
+  "repository": "https://github.com/ten-protocol/go-ten",
+  "analysis_timestamp": "2025-10-10T15:40:08Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 64,
+    "rust": 0,
+    "typescript": 34,
+    "javascript": 5,
+    "go": 574,
+    "python": 0
+  },
+  "total_files": 960,
+  "total_lines_of_code": 133689,
+  "smart_contracts_found": 64,
+  "dependencies": {
+    "npm": true,
+    "cargo": false,
+    "go_modules": true
+  },
+  "test_files_found": 107,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 81
+  },
+  "analysis_status": "completed"
+}

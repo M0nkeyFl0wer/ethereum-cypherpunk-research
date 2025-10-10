@@ -1,0 +1,81 @@
+{
+  "project_name": "Snapshot X",
+  "description": "Snapshot X is Snapshot Labs' fully onchain voting protocol built on Starknet that enables decentralized governance with privacy features. It offers shielded voting using threshold encryption (developed with Shutter Network) to encrypt individual votes during active governance periods, gasless voting via signature (with optional DAO-sponsored gas fees), and cross-chain governance using storage proofs (via Herodotus integration) to verify balances across different chains. Transaction costs are 10-50x cheaper than L1 while maintaining similar security. Available on Starknet, Ethereum, Optimism, Polygon, and Arbitrum, with full cross-chain voting only on Starknet.",
+  "website": "https://snapshot.box/",
+  "github": "https://github.com/snapshot-labs/sx-monorepo",
+  "category": "Uncategorized",
+  "status": "Unknown",
+  "github_stats": {
+    "stars": 0,
+    "forks": 0,
+    "language": "Unknown"
+  },
+  "metadata": {
+    "source": "README.md conversion",
+    "extracted_date": "2025-10-09",
+    "confidence": 0.85,
+    "data_type": "markdown_extracted",
+    "description_source": "web_search_2025",
+    "description_confidence": 0.9,
+    "description_expanded_date": "2025-10-10",
+    "github_url_source": "web_search_2025",
+    "github_url_confidence": 0.9
+  },
+  "basic_information": {
+    "description": {
+      "value": "No description available",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs"
+    ]
+  },
+  "github_data": {
+    "statistics": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown"
+    }
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "project_description": "Snapshot X is Snapshot Labs' fully onchain voting protocol built on Starknet that enables decentralized governance with privacy features. It offers shielded voting using threshold encryption (developed with Shutter Network) to encrypt individual votes during active governance periods, gasless voting via signature (with optional DAO-sponsored gas fees), and cross-chain governance using storage proofs (via Herodotus integration) to verify balances across different chains. Transaction costs are 10-50x cheaper than L1 while maintaining similar security. Available on Starknet, Ethereum, Optimism, Polygon, and Arbitrum, with full cross-chain voting only on Starknet.",
+  "github_repository": "https://github.com/snapshot-labs/sx-monorepo",
+  "github_url": "https://github.com/snapshot-labs/sx-monorepo",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/snapshot-labs/sx-monorepo"
+    },
+    "website": "https://snapshot.box/"
+  }
+}

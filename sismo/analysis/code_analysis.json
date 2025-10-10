@@ -1,0 +1,29 @@
+{
+  "project": "sismo",
+  "repository": "https://github.com/sismo-core/sismo-badges",
+  "analysis_timestamp": "2025-10-10T15:50:29Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 47,
+    "rust": 0,
+    "typescript": 92,
+    "javascript": 0,
+    "go": 0,
+    "python": 0
+  },
+  "total_files": 503,
+  "total_lines_of_code": 23753,
+  "smart_contracts_found": 47,
+  "dependencies": {
+    "npm": true,
+    "cargo": false,
+    "go_modules": false
+  },
+  "test_files_found": 198,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 1
+  },
+  "analysis_status": "completed"
+}

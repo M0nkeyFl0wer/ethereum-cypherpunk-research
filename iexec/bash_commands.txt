@@ -1,0 +1,26 @@
+# iExec README Generation - Bash Commands Reference
+
+## Files Read (Input Sources)
+cat /home/flower/web3privacy-research/deliverables/iexec/research_result.json
+cat /home/flower/web3privacy-research/deliverables/iexec/project_metadata.json
+
+## Directory Verification
+ls -la /home/flower/web3privacy-research/deliverables/iexec/
+
+## README Creation (Output)
+# Written to: /home/flower/web3privacy-research/deliverables/iexec/README.md
+
+## View Generated README
+cat /home/flower/web3privacy-research/deliverables/iexec/README.md
+
+## Validate Constitutional Compliance
+grep -i "confidence" /home/flower/web3privacy-research/deliverables/iexec/README.md
+grep -i "data sources" /home/flower/web3privacy-research/deliverables/iexec/README.md
+grep -i "gaps" /home/flower/web3privacy-research/deliverables/iexec/README.md
+
+## Statistics
+wc -l /home/flower/web3privacy-research/deliverables/iexec/README.md
+wc -w /home/flower/web3privacy-research/deliverables/iexec/README.md
+
+## Date Generated
+date -Iseconds

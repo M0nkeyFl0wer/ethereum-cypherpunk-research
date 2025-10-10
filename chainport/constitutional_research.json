@@ -1,0 +1,174 @@
+{
+  "project_name": "chainport",
+  "research_timestamp": "2025-10-04T18:38:57-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "chainport",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "total_count": 0,
+    "incomplete_results": false,
+    "items": []
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "github_url_source": "web_search_2025",
+    "github_url_confidence": 0.85,
+    "github_research_date": "2025-10-10",
+    "github_note": "Organization with forked repos, core bridge may be proprietary"
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:12-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/chainport",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/chainport",
+    "message": "Page not found: /api/project/chainport",
+    "data": {
+      "path": "/api/project/chainport"
+    }
+  },
+  "market_data": {
+    "id": "chainport",
+    "name": "ChainPort",
+    "api_symbol": "chainport",
+    "symbol": "PORTX",
+    "market_cap_rank": 6900,
+    "thumb": "https://coin-images.coingecko.com/coins/images/24490/thumb/VE-tUL-q_400x400.png",
+    "large": "https://coin-images.coingecko.com/coins/images/24490/large/VE-tUL-q_400x400.png"
+  },
+  "website": "https://www.chainport.io/",
+  "website_confidence": 0.85,
+  "description": "ChainPort is a next-generation security-focused cross-chain bridge that enables users to port tokens across 25+ blockchain ecosystems with fast, permissionless transfers. It is the first bridge that offers a fully security-focused solution safeguarding 95% of funds in cold storage vaults, using active multi-party computation (MPC) with hardware isolation powered by Fireblocks. ChainPort is the only bridge that supports all common bridging methods including wrapped asset bridging (lock-and-mint), native token bridging, hybrid bridging, and external cross-chain protocols like Circle's CCTP for USDC. The platform enables full interoperability, allowing users to port tokens across multiple blockchains without needing to revert back to the original chain.",
+  "description_confidence": 0.93,
+  "research_metadata": {
+    "batch3_processed": true,
+    "batch3_web_research_date": "2025-10-06T12:50:00Z",
+    "seshat_website_found": true
+  },
+  "website_sources": [
+    "https://chainport.xyz",
+    "seshat domain discovery"
+  ],
+  "basic_information": {
+    "description": {
+      "value": "ChainPort is a next-generation security-focused cross-chain bridge that enables users to port tokens across 25+ blockchain ecosystems with fast, permissionless transfers. It is the first bridge that offers a fully security-focused solution safeguarding 95% of funds in cold storage vaults, using active multi-party computation (MPC) with hardware isolation powered by Fireblocks. ChainPort is the only bridge that supports all common bridging methods including wrapped asset bridging (lock-and-mint), native token bridging, hybrid bridging, and external cross-chain protocols like Circle's CCTP for USDC. The platform enables full interoperability, allowing users to port tokens across multiple blockchains without needing to revert back to the original chain.",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      {
+        "smart_contracts": {
+          "languages": [
+            "Solidity"
+          ],
+          "frameworks": [
+            "Hardhat",
+            "Foundry"
+          ],
+          "libraries": [
+            "OpenZeppelin"
+          ],
+          "confidence": 0.95
+        },
+        "backend": {
+          "languages": [
+            "TypeScript",
+            "JavaScript"
+          ],
+          "runtime": [
+            "Node.js (v16.14.0+)"
+          ],
+          "confidence": 0.9
+        },
+        "development_tools": {
+          "package_managers": [
+            "Yarn (v1.22.19)"
+          ],
+          "tooling": [
+            "TypeScript",
+            "ESLint",
+            "Solhint"
+          ],
+          "confidence": 0.9
+        },
+        "blockchain_compatibility": {
+          "supported_chains": "25+ EVM-compatible and non-EVM blockchains",
+          "standards": [
+            "ERC20"
+          ],
+          "confidence": 0.95
+        }
+      }
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      {
+        "multi_party_computation": {
+          "description": "Active MPC with hardware isolation for multi-layer security",
+          "provider": "Fireblocks",
+          "implementation": "Private key sharding with encrypted shares distributed among multiple parties",
+          "coverage": "Storage and transfers",
+          "confidence": 1.0
+        },
+        "hardware_isolation": {
+          "description": "Hardware-based security isolation combined with MPC cryptography",
+          "purpose": "Protection against cyber attacks, internal collusion, and human error",
+          "confidence": 0.95
+        },
+        "cold_storage": {
+          "description": "Multi-signature cold storage with fund segregation",
+          "provider": "Gnosis Safe and Fireblocks",
+          "percentage": "98% of funds in cold storage",
+          "hot_wallet": "5% maximum in bridge contract",
+          "confidence": 1.0
+        },
+        "private_bridge_service": {
+          "description": "Enhanced privacy bridge with 3-of-5 multi-sig wallets",
+          "key_distribution": "2 keys held by ChainPort, 2 by token issuer, 1 optional trustee key",
+          "confidence": 0.9
+        },
+        "encryption": {
+          "description": "Fireblocks MPC encryption for key management",
+          "confidence": 0.95
+        },
+        "proof_of_reserves": {
+          "description": "Transparency mechanism for verifying locked assets",
+          "confidence": 0.85
+        },
+        "notes": {
+          "tee_support": "No evidence found for Trusted Execution Environment (TEE) implementation",
+          "zero_knowledge_proofs": "No specific implementation details found for zero-knowledge proofs",
+          "confidence": 0.7
+        }
+      }
+    ]
+  },
+  "github_repository": "https://github.com/chainport",
+  "github_url": "https://github.com/chainport",
+  "github": "https://github.com/chainport",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/chainport"
+    },
+    "website": "https://www.chainport.io/"
+  }
+}

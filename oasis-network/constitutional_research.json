@@ -1,0 +1,171 @@
+{
+  "project_name": "oasis-network",
+  "research_timestamp": "2025-10-04T18:39:20-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "oasis-network",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "oasis-network/analysis/github_analysis.json",
+    "github_url_source": "online_presence",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:22-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/oasis-network",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/oasis-network",
+    "message": "Page not found: /api/project/oasis-network",
+    "data": {
+      "path": "/api/project/oasis-network"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "oasis-network",
+    "analysis_timestamp": "2025-10-04T19:02:13-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://oasis-network.org",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://oasis-network.org",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/oasisprotocol/oasis-core",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from github_analysis.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    },
+    "social_media": {
+      "twitter": "",
+      "discord": "",
+      "telegram": "",
+      "medium": "",
+      "mirror": ""
+    }
+  },
+  "basic_information": {
+    "description": {
+      "value": "Performant and Confidentiality-Preserving Smart Contracts + Blockchains",
+      "confidence": 0.9,
+      "sources": [
+        "GitHub repository description via API"
+      ],
+      "verification_count": 1
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      {
+        "name": "Go",
+        "bytes": 6897571,
+        "percentage": 80.9
+      },
+      {
+        "name": "Rust",
+        "bytes": 1557890,
+        "percentage": 18.27
+      },
+      {
+        "name": "Shell",
+        "bytes": 33151,
+        "percentage": 0.39
+      },
+      {
+        "name": "Makefile",
+        "bytes": 28316,
+        "percentage": 0.33
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 5784,
+        "percentage": 0.07
+      },
+      {
+        "name": "Python",
+        "bytes": 1841,
+        "percentage": 0.02
+      },
+      {
+        "name": "Jinja",
+        "bytes": 1148,
+        "percentage": 0.01
+      }
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 284066,
+    "languages": {
+      "solidity": 0,
+      "rust": 227,
+      "typescript": 0,
+      "javascript": 0,
+      "go": 1133,
+      "python": 3
+    },
+    "smart_contracts_found": 0,
+    "test_files_found": 338,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "Performant and Confidentiality-Preserving Smart Contracts + Blockchains",
+  "project_description": "Performant and Confidentiality-Preserving Smart Contracts + Blockchains",
+  "github_repository": "https://github.com/oasisprotocol/oasis-core",
+  "github_url": "https://github.com/oasisprotocol/oasis-core"
+}

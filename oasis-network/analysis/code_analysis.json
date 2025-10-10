@@ -1,0 +1,29 @@
+{
+  "project": "oasis-network",
+  "repository": "https://github.com/oasisprotocol/oasis-core",
+  "analysis_timestamp": "2025-10-10T15:40:05Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 227,
+    "typescript": 0,
+    "javascript": 0,
+    "go": 1133,
+    "python": 3
+  },
+  "total_files": 1617,
+  "total_lines_of_code": 284066,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": false,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 338,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 66
+  },
+  "analysis_status": "completed"
+}

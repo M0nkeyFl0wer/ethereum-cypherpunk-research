@@ -1,0 +1,29 @@
+{
+  "project": "sentinel",
+  "repository": "https://github.com/sentinel-official/sentinelhub",
+  "analysis_timestamp": "2025-10-10T15:40:04Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 0,
+    "typescript": 0,
+    "javascript": 0,
+    "go": 468,
+    "python": 0
+  },
+  "total_files": 649,
+  "total_lines_of_code": 164153,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": false,
+    "cargo": false,
+    "go_modules": true
+  },
+  "test_files_found": 20,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 6
+  },
+  "analysis_status": "completed"
+}

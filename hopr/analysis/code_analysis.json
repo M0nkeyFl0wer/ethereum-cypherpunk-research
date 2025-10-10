@@ -1,0 +1,29 @@
+{
+  "project": "hopr",
+  "repository": "https://github.com/hoprnet/hoprnet",
+  "analysis_timestamp": "2025-10-10T15:39:55Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 1058,
+    "rust": 349,
+    "typescript": 63,
+    "javascript": 6,
+    "go": 0,
+    "python": 56
+  },
+  "total_files": 2392,
+  "total_lines_of_code": 344089,
+  "smart_contracts_found": 1060,
+  "dependencies": {
+    "npm": false,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 292,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 148
+  },
+  "analysis_status": "completed"
+}

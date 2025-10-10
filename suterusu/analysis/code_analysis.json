@@ -1,0 +1,29 @@
+{
+  "project": "suterusu",
+  "repository": "https://github.com/suterusu-team/suter-proofs",
+  "analysis_timestamp": "2025-10-10T15:40:04Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 9,
+    "typescript": 0,
+    "javascript": 0,
+    "go": 0,
+    "python": 0
+  },
+  "total_files": 44,
+  "total_lines_of_code": 2186,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": false,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 1,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 2
+  },
+  "analysis_status": "completed"
+}

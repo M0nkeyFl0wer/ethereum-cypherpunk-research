@@ -1,0 +1,29 @@
+{
+  "project": "zecrey",
+  "repository": "https://github.com/Zecrey-Labs/zecrey-crypto-mobile",
+  "analysis_timestamp": "2025-10-10T16:21:14Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 0,
+    "typescript": 0,
+    "javascript": 2,
+    "go": 0,
+    "python": 0
+  },
+  "total_files": 2804,
+  "total_lines_of_code": 402,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": false,
+    "cargo": false,
+    "go_modules": false
+  },
+  "test_files_found": 14,
+  "documentation": {
+    "has_readme": false,
+    "markdown_files": 4
+  },
+  "analysis_status": "completed"
+}

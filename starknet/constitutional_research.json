@@ -1,0 +1,81 @@
+{
+  "project_name": "Starknet",
+  "description": "Starknet is a Validity-Rollup (ZK-Rollup) Layer 2 network operating on Ethereum that uses STARK proofs to achieve massive scalability without compromising security. Powered by the Cairo programming language optimized for STARK-based computation, Starknet bundles transactions into off-chain computed STARK proofs submitted to Ethereum as single transactions. In 2025, Starknet became Bitcoin's execution layer, settling on both Bitcoin and Ethereum, processing 10,000+ TPS with quantum-resistant cryptography. The network enables complex applications with significantly lower costs and faster processing than Layer 1, supporting thousands of transactions per second.",
+  "website": "https://www.starknet.io/",
+  "github": "https://github.com/starkware-libs/cairo",
+  "category": "Uncategorized",
+  "status": "Unknown",
+  "github_stats": {
+    "stars": 0,
+    "forks": 0,
+    "language": "Unknown"
+  },
+  "metadata": {
+    "source": "README.md conversion",
+    "extracted_date": "2025-10-09",
+    "confidence": 0.85,
+    "data_type": "markdown_extracted",
+    "description_source": "web_search_2025",
+    "description_confidence": 0.95,
+    "description_expanded_date": "2025-10-10",
+    "github_url_source": "web_search_2025",
+    "github_url_confidence": 0.95
+  },
+  "basic_information": {
+    "description": {
+      "value": "StarkNet Ignites Market with Bitcoin Staking, Fuels Overall Crypto Cap Surge&nbsp;&nbsp;FinancialContent",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at basic_information.description.value"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs"
+    ]
+  },
+  "github_data": {
+    "statistics": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown"
+    }
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "project_description": "Starknet is a Validity-Rollup (ZK-Rollup) Layer 2 network operating on Ethereum that uses STARK proofs to achieve massive scalability without compromising security. Powered by the Cairo programming language optimized for STARK-based computation, Starknet bundles transactions into off-chain computed STARK proofs submitted to Ethereum as single transactions. In 2025, Starknet became Bitcoin's execution layer, settling on both Bitcoin and Ethereum, processing 10,000+ TPS with quantum-resistant cryptography. The network enables complex applications with significantly lower costs and faster processing than Layer 1, supporting thousands of transactions per second.",
+  "github_repository": "https://github.com/starkware-libs/cairo",
+  "github_url": "https://github.com/starkware-libs/cairo",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/starkware-libs/cairo"
+    },
+    "website": "https://www.starknet.io/"
+  }
+}

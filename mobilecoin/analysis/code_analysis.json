@@ -1,0 +1,29 @@
+{
+  "project": "mobilecoin",
+  "repository": "https://github.com/mobilecoinfoundation/mobilecoin",
+  "analysis_timestamp": "2025-10-10T15:40:05Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 941,
+    "typescript": 0,
+    "javascript": 0,
+    "go": 2,
+    "python": 32
+  },
+  "total_files": 1862,
+  "total_lines_of_code": 230922,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": false,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 203,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 176
+  },
+  "analysis_status": "completed"
+}

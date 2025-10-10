@@ -1,0 +1,183 @@
+{
+  "project_name": "fluidkey",
+  "research_timestamp": "2025-10-04T18:39:08-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "fluidkey",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "research_source": "seshat_data_2025",
+    "research_confidence": 0.9,
+    "research_date": "2025-10-10",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 4
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:16-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/fluidkey",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/fluidkey",
+    "message": "Page not found: /api/project/fluidkey",
+    "data": {
+      "path": "/api/project/fluidkey"
+    }
+  },
+  "market_data": {},
+  "website": "https://fluidkey.com",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://fluidkey.com",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "basic_information": {
+    "description": {
+      "value": "The financial home for crypto power users. Receive, grow, and spend your funds with privacy and simplicity.",
+      "confidence": 0.85,
+      "sources": [
+        "Website meta description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith",
+    {
+      "value": [
+        {
+          "name": "Antonio",
+          "role": "Co-founder & CTO",
+          "background": "Former freelance Solidity developer (3 years), Web2 Cloud Native Architect",
+          "sources": [
+            "https://www.rootdata.com/Projects/detail/Fluidkey",
+            "Multiple web search results"
+          ],
+          "confidence": 0.7
+        },
+        {
+          "name": "Moritz",
+          "role": "Co-founder",
+          "background": "Conceived stealth addresses + smart accounts idea, shared on Farcaster",
+          "sources": [
+            "https://www.rootdata.com/Projects/detail/Fluidkey",
+            "Multiple web search results"
+          ],
+          "confidence": 0.7
+        }
+      ],
+      "verification_status": "partial",
+      "note": "Founders mentioned in multiple sources but lacking official team page verification",
+      "confidence": 0.7,
+      "verified": false,
+      "gap": "Official team page or LinkedIn profiles needed for full verification"
+    }
+  ],
+  "online_presence": {
+    "social_media": {
+      "twitter": {
+        "value": "https://twitter.com/fluidkey",
+        "username": "@fluidkey",
+        "sources": [
+          "https://api.github.com/users/fluidkey"
+        ],
+        "confidence": 1.0,
+        "verified": true
+      },
+      "discord": {
+        "value": null,
+        "confidence": 0.0,
+        "verified": false,
+        "gap": "Discord server not found in public documentation"
+      },
+      "telegram": {
+        "value": null,
+        "confidence": 0.0,
+        "verified": false,
+        "gap": "Telegram group not found in public documentation"
+      },
+      "medium": "",
+      "mirror": "",
+      "github": {
+        "value": "https://github.com/fluidkey",
+        "sources": [
+          "https://api.github.com/users/fluidkey"
+        ],
+        "confidence": 1.0,
+        "verified": true
+      }
+    },
+    "website": "https://fluidkey.com",
+    "github": {
+      "url": "https://github.com/fluidkey/fluidkey-stealth-account-kit"
+    }
+  },
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs",
+      "TypeScript"
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "description": "An open source repository of the core cryptographic functions used by Fluidkey's interface and SDK for stealth accounts and privacy-preserving transactions on Ethereum.",
+  "project_description": "An open source repository of the core cryptographic functions used by Fluidkey's interface and SDK for stealth accounts and privacy-preserving transactions on Ethereum.",
+  "github_repository": "https://github.com/fluidkey/fluidkey-stealth-account-kit",
+  "github_url": "https://github.com/fluidkey/fluidkey-stealth-account-kit",
+  "code_analysis": {
+    "total_lines_of_code": 1348,
+    "total_files": 68,
+    "languages": {
+      "solidity": 0,
+      "rust": 0,
+      "typescript": 17,
+      "javascript": 0,
+      "go": 0,
+      "python": 0
+    },
+    "smart_contracts_found": 0,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  }
+}

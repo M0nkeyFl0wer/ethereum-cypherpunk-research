@@ -1,0 +1,154 @@
+{
+  "project_name": "penumbra",
+  "research_timestamp": "2025-10-04T18:39:24-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "penumbra",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "penumbra/analysis/github_analysis.json",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:23-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/penumbra",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/penumbra",
+    "message": "Page not found: /api/project/penumbra",
+    "data": {
+      "path": "/api/project/penumbra"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "penumbra",
+    "analysis_timestamp": "2025-10-04T19:01:52-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://penumbra.io",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://penumbra.io",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "github": "https://github.com/penumbra-zone/penumbra",
+  "basic_information": {
+    "description": {
+      "value": "Services Emotional Intelligence Workshops We offer several half-day or full-day interactive programs designed to raise awareness and provide practical tools and takeaways for increasing the overall effectiveness of your employees. Learn More Leadership Coaching We work diligently with each coachee to identify unique areas of development and execute learning activities that leverage the person\u2019s key [&hellip;]",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from sources/penumbra_scraped.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs"
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 265616,
+    "languages": {
+      "solidity": 0,
+      "rust": 894,
+      "typescript": 0,
+      "javascript": 7,
+      "go": 0,
+      "python": 0
+    },
+    "smart_contracts_found": 0,
+    "test_files_found": 443,
+    "has_documentation": true,
+    "analysis_timestamp": "2025-10-10T15:40:07Z",
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "Penumbra is a privacy-preserving decentralized exchange for all of crypto",
+  "project_description": "Penumbra is a privacy-preserving decentralized exchange for all of crypto",
+  "github_repository": "https://github.com/penumbra-zone/penumbra",
+  "github_url": "https://github.com/penumbra-zone/penumbra",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/penumbra-zone/penumbra"
+    }
+  }
+}

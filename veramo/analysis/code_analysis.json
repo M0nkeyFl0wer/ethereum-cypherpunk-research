@@ -1,0 +1,29 @@
+{
+  "project": "veramo",
+  "repository": "https://github.com/decentralized-identity/veramo",
+  "analysis_timestamp": "2025-10-10T18:44:18Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 0,
+    "typescript": 331,
+    "javascript": 2,
+    "go": 0,
+    "python": 0
+  },
+  "total_files": 635,
+  "total_lines_of_code": 54725,
+  "smart_contracts_found": 0,
+  "test_files_found": 93,
+  "dependencies": {
+    "npm": true,
+    "cargo": false,
+    "go_modules": false
+  },
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 77
+  },
+  "analysis_status": "completed"
+}

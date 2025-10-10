@@ -1,0 +1,29 @@
+{
+  "project": "status",
+  "repository": "https://github.com/status-im/status-mobile",
+  "analysis_timestamp": "2025-10-10T15:50:31Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 0,
+    "typescript": 0,
+    "javascript": 26,
+    "go": 0,
+    "python": 37
+  },
+  "total_files": 5392,
+  "total_lines_of_code": 11800,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": true,
+    "cargo": false,
+    "go_modules": false
+  },
+  "test_files_found": 391,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 78
+  },
+  "analysis_status": "completed"
+}

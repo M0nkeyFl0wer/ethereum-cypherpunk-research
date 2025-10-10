@@ -1,0 +1,29 @@
+{
+  "project": "litentry",
+  "repository": "https://github.com/litentry/litentry-parachain",
+  "analysis_timestamp": "2025-10-10T15:39:55Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 70,
+    "rust": 1208,
+    "typescript": 250,
+    "javascript": 11,
+    "go": 0,
+    "python": 6
+  },
+  "total_files": 2411,
+  "total_lines_of_code": 262826,
+  "smart_contracts_found": 70,
+  "dependencies": {
+    "npm": false,
+    "cargo": false,
+    "go_modules": false
+  },
+  "test_files_found": 343,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 112
+  },
+  "analysis_status": "completed"
+}

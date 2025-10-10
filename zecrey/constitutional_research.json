@@ -1,0 +1,68 @@
+{
+  "project_name": "Zecrey",
+  "description": "Zecrey is a zk-rollup based Layer 2 privacy protocol that brings cross-chain support and privacy to digital assets. Built on zero-knowledge proof technology, Zecrey enables private transactions and cross-chain asset management across multiple blockchain networks. The protocol uses zk-rollup scaling to provide privacy-preserving transactions while maintaining compatibility with various blockchain ecosystems.",
+  "project_description": "Zecrey is a zk-rollup based Layer 2 privacy protocol that brings cross-chain support and privacy to digital assets. Built on zero-knowledge proof technology, Zecrey enables private transactions and cross-chain asset management across multiple blockchain networks. The protocol uses zk-rollup scaling to provide privacy-preserving transactions while maintaining compatibility with various blockchain ecosystems.",
+  "website": "https://www.zecrey.com",
+  "github": "https://github.com/Zecrey-Labs",
+  "category": "Uncategorized",
+  "status": "Unknown",
+  "github_stats": {
+    "stars": 0,
+    "forks": 0,
+    "language": "Unknown"
+  },
+  "metadata": {
+    "source": "README.md conversion",
+    "extracted_date": "2025-10-09",
+    "confidence": 0.85,
+    "data_type": "markdown_extracted",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 3
+  },
+  "basic_information": {
+    "description": {
+      "value": "No description available",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/Zecrey-Labs",
+      "value": "https://github.com/Zecrey-Labs",
+      "confidence": 0.95,
+      "source": "web_search_2025"
+    }
+  },
+  "social_links": {
+    "twitter": "https://twitter.com/zecreyprotocol",
+    "github": "https://github.com/Zecrey-Labs",
+    "docs": "https://docs.zecrey.com"
+  },
+  "technical_information": {
+    "tech_stack": [
+      "Rust",
+      "zk-rollups",
+      "Zero-knowledge proofs"
+    ]
+  },
+  "privacy_features": [
+    "Private transactions",
+    "Cross-chain asset management",
+    "zk-rollup privacy"
+  ],
+  "github_data": {
+    "repositories": {
+      "crypto_mobile": "https://github.com/Zecrey-Labs/zecrey-crypto-mobile",
+      "client_crypto": "https://github.com/Zecrey-Labs/zecrey-client-crypto"
+    }
+  },
+  "last_updated": "2025-10-10",
+  "data_source": "web_search_twitter_2025",
+  "github_repository": "https://github.com/Zecrey-Labs",
+  "github_url": "https://github.com/Zecrey-Labs"
+}

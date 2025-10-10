@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
+.cache/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# JSON_CONSOLIDATED (archived data)
+JSON_CONSOLIDATED/
+
+# Recovery and temp directories
+recovery/
+temp/
+tmp/

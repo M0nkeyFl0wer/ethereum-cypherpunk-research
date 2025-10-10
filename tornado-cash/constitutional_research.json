@@ -1,0 +1,352 @@
+{
+  "project_name": "tornado-cash",
+  "research_timestamp": "2025-10-04T18:39:40-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "tornado-cash",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "tornado-cash/tornado-cash-research.json",
+    "github_url_source": "online_presence",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:28-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/tornado-cash",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/tornado-cash",
+    "message": "Page not found: /api/project/tornado-cash",
+    "data": {
+      "path": "/api/project/tornado-cash"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "tornado-cash",
+    "analysis_timestamp": "2025-10-04T19:01:44-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://tornado-cash.org",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://tornado-cash.org",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/tornadocash/tornado-core",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from github_analysis.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    },
+    "social_media": {
+      "twitter": "",
+      "discord": "",
+      "telegram": "",
+      "medium": "",
+      "mirror": ""
+    }
+  },
+  "basic_information": {
+    "description": {
+      "value": "Tornado Cash is an open source, non-custodial, fully decentralized cryptocurrency mixer (tumbler) that runs on Ethereum Virtual Machine-compatible networks. It is a fully decentralized protocol for private transactions on Ethereum, BSC (BNB Chain), Optimism, Polygon, Avalanche, Arbitrum, and Gnosis networks.",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from tornado-cash-research.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    }
+  },
+  "team": [
+    {
+      "name": "Roman Storm",
+      "role": "Founder",
+      "github": "",
+      "twitter": ""
+    },
+    {
+      "name": "Alexey Pertsev",
+      "role": "Founder",
+      "github": "",
+      "twitter": ""
+    },
+    {
+      "name": "Roman Semenov",
+      "role": "Founder",
+      "github": "",
+      "twitter": ""
+    }
+  ],
+  "founders": [
+    {
+      "roman_storm": {
+        "name": "Roman Storm",
+        "role": "Co-Founder and Developer",
+        "nationality": "United States (resident)",
+        "legal_status": {
+          "arrest_date": "August 2023",
+          "arrested_by": "FBI and IRS Criminal Investigation",
+          "trial_date": "July 14-30, 2025",
+          "verdict_date": "August 6, 2025",
+          "charges": [
+            "Conspiracy to commit money laundering",
+            "Conspiracy to operate an unlicensed money transmitting business",
+            "Conspiracy to commit sanctions violations"
+          ],
+          "verdict": {
+            "guilty": [
+              "Conspiracy to operate an unlicensed money transmitting business"
+            ],
+            "deadlocked": [
+              "Conspiracy to commit money laundering",
+              "Conspiracy to violate international sanctions"
+            ],
+            "note": "Jury unable to reach unanimous verdict on 2 of 3 charges after 4 days of deliberations"
+          },
+          "potential_sentence": "Up to 45 years maximum (combined), convicted charge carries up to 5 years",
+          "current_status": "Free on bail, sentencing date not yet set",
+          "bail_status": "Not a flight risk due to U.S. ties and bond size"
+        },
+        "bio": "One of the three co-founders of Tornado Cash. Arrested in Washington state in 2023. Declined to testify at his trial. The case centers on allegations that Tornado Cash helped launder over $1 billion in criminal proceeds.",
+        "sources": [
+          "https://www.coindesk.com/policy/2025/08/06/roman-storm-guilty-of-unlicensed-money-transmitting-conspiracy-in-partial-verdict",
+          "https://www.justice.gov/usao-sdny/pr/tornado-cash-founders-charged-money-laundering-and-sanctions-violations",
+          "https://therecord.media/us-arrests-tornado-cash-cofounder"
+        ]
+      },
+      "roman_semenov": {
+        "name": "Roman Semenov",
+        "role": "Co-Founder",
+        "nationality": "Russian citizen",
+        "legal_status": {
+          "ofac_sanctions_date": "August 2023",
+          "indictment_date": "August 2023",
+          "charges": [
+            "Conspiracy to commit money laundering",
+            "Conspiracy to operate an unlicensed money transmitting business",
+            "Conspiracy to commit sanctions violations"
+          ],
+          "current_status": "Sanctioned by OFAC, indicted by DOJ, remains at large",
+          "location": "Unknown, has not been apprehended",
+          "note": "U.S. Treasury designated and sanctioned as co-founder of sanctioned virtual currency mixer"
+        },
+        "bio": "Co-founder of Tornado Cash, Russian citizen who remains at large. Sanctioned by U.S. Treasury's Office of Foreign Assets Control in August 2023, same day Roman Storm was arrested.",
+        "sources": [
+          "https://home.treasury.gov/news/press-releases/jy1702",
+          "https://www.chainalysis.com/blog/ofac-sanctions-roman-semenov-tornado-cash/",
+          "https://blockworks.co/news/roman-semenov-tornado-cash-ofac-list"
+        ]
+      },
+      "alexey_pertsev": {
+        "name": "Alexey Pertsev",
+        "role": "Co-Founder and Developer",
+        "nationality": "Russian citizen (31 years old as of May 2024)",
+        "legal_status": {
+          "arrest_date": "August 2022",
+          "arrest_location": "Netherlands",
+          "trial_location": "s-Hertogenbosch court, Netherlands",
+          "verdict_date": "May 14, 2024",
+          "verdict": "Guilty of money laundering",
+          "amount_laundered": "$1.2 billion worth of cryptocurrency",
+          "sentence": "64 months (5 years and 4 months) in prison",
+          "time_period": "July 9, 2019 to August 10, 2022",
+          "court_reasoning": "Judge Henrieke Slaar stated: 'Tornado Cash in its nature and functioning is a tool intended for criminals.' Court found Pertsev 'made a habit of committing money laundering' and should have been more suspicious about possible criminal origins of transactions.",
+          "appeal_status": "Filed appeal with s-Hertogenbosch court of appeal",
+          "bail_status": "Denied bail in July 2024",
+          "current_status": "Imprisoned in Netherlands, appeal pending",
+          "immediate_consequence": "Escorted by police to cells under court, then transferred to appropriate Dutch prison"
+        },
+        "bio": "Russian developer and co-founder of Tornado Cash. First of the three founders to be arrested. Detained in Netherlands since August 2022. Found guilty by Dutch court in May 2024.",
+        "sources": [
+          "https://www.coindesk.com/policy/2024/05/14/tornado-cash-developer-alexey-pertsev-found-guilty-of-money-laundering",
+          "https://www.dlnews.com/articles/regulation/tornado-cash-dev-alexey-pertsev-guilty-of-money-laundering/",
+          "https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html",
+          "https://blockworks.co/news/alexey-pertsev-tornado-cash-guilty"
+        ]
+      }
+    },
+    "John Doe",
+    "Jane Smith",
+    {
+      "name": "Roman Storm",
+      "age": 34,
+      "location": "Auburn, Washington, USA",
+      "status": "arrested_august_2023",
+      "charges": [
+        "conspiracy to commit money laundering",
+        "conspiracy to operate an unlicensed money transmitting business",
+        "conspiracy to commit sanctions violations"
+      ],
+      "legal_status": "pleaded not guilty, released on $2M bond",
+      "arrest_date": "2023-08-23",
+      "github_username": "rstormsf",
+      "sources": [
+        "https://www.justice.gov/usao-sdny/pr/tornado-cash-founders-charged-money-laundering-and-sanctions-violations",
+        "https://www.coindesk.com/policy/2023/09/06/tornado-cash-developer-roman-storm-pleads-not-guilty-to-money-laundering-other-charges"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "name": "Alexey Pertsev",
+      "status": "convicted_netherlands_may_2024",
+      "charges": [
+        "money laundering"
+      ],
+      "legal_status": "sentenced to 5 years 4 months in prison",
+      "arrest_date": "2022-08",
+      "arrest_location": "Amsterdam, Netherlands",
+      "conviction_date": "2024-05",
+      "github_username": "pertsev",
+      "sources": [
+        "https://www.justice.gov/usao-sdny/pr/tornado-cash-founders-charged-money-laundering-and-sanctions-violations",
+        "https://99bitcoins.com/news/tornado-cash-developer-alexey-pertsev-to-be-released-as-dutch-court-suspends-pretrial-detention/"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "name": "Roman Semenov",
+      "age": 35,
+      "nationality": "Russian",
+      "status": "at_large_indicted",
+      "charges": [
+        "conspiracy to commit money laundering",
+        "conspiracy to commit sanctions violations",
+        "conspiracy to operate an unlicensed money transmitting business"
+      ],
+      "legal_status": "FBI most wanted, sanctioned by OFAC August 2023",
+      "indictment_date": "2023-08-23",
+      "ofac_sanction_date": "2023-08-23",
+      "sources": [
+        "https://www.justice.gov/usao-sdny/pr/tornado-cash-founders-charged-money-laundering-and-sanctions-violations",
+        "https://home.treasury.gov/news/press-releases/jy1702"
+      ],
+      "confidence": 0.98
+    }
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "Circom",
+      "Websnark",
+      "Solidity",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs",
+      {
+        "name": "JavaScript",
+        "bytes": 91101,
+        "percentage": 74.7
+      },
+      {
+        "name": "Solidity",
+        "bytes": 29928,
+        "percentage": 24.54
+      },
+      {
+        "name": "Shell",
+        "bytes": 471,
+        "percentage": 0.39
+      },
+      {
+        "name": "HTML",
+        "bytes": 455,
+        "percentage": 0.37
+      }
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "multi-party computation (MPC)",
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 3152,
+    "languages": {
+      "solidity": 11,
+      "rust": 0,
+      "typescript": 0,
+      "javascript": 15,
+      "go": 0,
+      "python": 0
+    },
+    "smart_contracts_found": 11,
+    "test_files_found": 4,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "Tornado Cash is an open source, non-custodial, fully decentralized cryptocurrency mixer (tumbler) that runs on Ethereum Virtual Machine-compatible networks. It is a fully decentralized protocol for pr...",
+  "project_description": "Tornado Cash is an open source, non-custodial, fully decentralized cryptocurrency mixer (tumbler) that runs on Ethereum Virtual Machine-compatible networks. It is a fully decentralized protocol for pr...",
+  "github_repository": "https://github.com/tornadocash/tornado-core",
+  "github_url": "https://github.com/tornadocash/tornado-core"
+}

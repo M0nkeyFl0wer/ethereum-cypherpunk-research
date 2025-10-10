@@ -1,0 +1,29 @@
+{
+  "project": "penumbra",
+  "repository": "https://github.com/penumbra-zone/penumbra",
+  "analysis_timestamp": "2025-10-10T15:40:07Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 0,
+    "rust": 894,
+    "typescript": 0,
+    "javascript": 7,
+    "go": 0,
+    "python": 0
+  },
+  "total_files": 1966,
+  "total_lines_of_code": 265616,
+  "smart_contracts_found": 0,
+  "dependencies": {
+    "npm": false,
+    "cargo": true,
+    "go_modules": false
+  },
+  "test_files_found": 443,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 128
+  },
+  "analysis_status": "completed"
+}

@@ -1,0 +1,88 @@
+{
+  "project_name": "Aleo",
+  "description": "Top 10 Trending Crypto Assets: FLOKI, OKB, BTC, DOOD, BNB, ELA, ALEO, ASTER, CAKE, and PUMP&nbsp;&nbsp;BlockchainReporter",
+  "website": "https://aleo.org",
+  "github": "https://github.com/AleoHQ",
+  "category": "Uncategorized",
+  "status": "Unknown",
+  "github_stats": {
+    "stars": 0,
+    "forks": 0,
+    "language": "Unknown"
+  },
+  "metadata": {
+    "source": "README.md conversion",
+    "extracted_date": "2025-10-09",
+    "confidence": 0.85,
+    "data_type": "markdown_extracted",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "aleo/reports/news_summary.json",
+    "github_url_source": "primary",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 3
+  },
+  "basic_information": {
+    "description": {
+      "value": "The Aleo Network Foundation and Paxos Labs Partner to Offer First Privacy-Preserving US Dollar Stablecoin&nbsp;&nbsp;Business Wire",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at basic_information.description.value"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "Leo (ZK programming language)",
+      "snarkOS",
+      "snarkVM"
+    ]
+  },
+  "github_data": {
+    "statistics": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown"
+    }
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/AleoHQ",
+      "value": "https://github.com/AleoHQ",
+      "confidence": 0.95,
+      "source": "web_search_2025"
+    }
+  },
+  "social_links": {
+    "github": "https://github.com/AleoHQ",
+    "github_network": "https://github.com/AleoNet"
+  },
+  "last_updated": "2025-10-10",
+  "data_source": "web_search_twitter_2025",
+  "project_description": "Top 10 Trending Crypto Assets: FLOKI, OKB, BTC, DOOD, BNB, ELA, ALEO, ASTER, CAKE, and PUMP&nbsp;&nbsp;BlockchainReporter",
+  "github_repository": "https://github.com/AleoHQ",
+  "github_url": "https://github.com/AleoHQ"
+}

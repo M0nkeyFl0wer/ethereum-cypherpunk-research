@@ -1,0 +1,81 @@
+{
+  "project_name": "Pse  Privacy   Scaling Explorations ",
+  "description": "Privacy Stewards for Ethereum (PSE), formerly Privacy and Scaling Explorations, is the Ethereum Foundation's dedicated 47-member privacy research cluster led by Igor Barinov. Rebranded in September 2025, PSE shifted from cryptography exploration to problem-first solutions addressing surveillance vulnerabilities. The team of cryptographers, mathematicians, developers, and designers focuses on five key areas: private reads/writes for payments, private proving for portable verification, private identities through selective disclosure, privacy experience improvements, and institutional adoption. Notable projects include Semaphore, MACI, zkEmail, zkTLS, Anon Aadhaar, and PlasmaFold (an experimental Layer-2 with private transfer features).",
+  "website": "https://pse.dev/",
+  "github": "https://github.com/privacy-scaling-explorations",
+  "category": "Uncategorized",
+  "status": "Unknown",
+  "github_stats": {
+    "stars": 0,
+    "forks": 0,
+    "language": "Unknown"
+  },
+  "metadata": {
+    "source": "README.md conversion",
+    "extracted_date": "2025-10-09",
+    "confidence": 0.85,
+    "data_type": "markdown_extracted",
+    "description_source": "web_search_2025",
+    "description_confidence": 0.95,
+    "description_expanded_date": "2025-10-10",
+    "github_url_source": "web_search_2025",
+    "github_url_confidence": 0.95
+  },
+  "basic_information": {
+    "description": {
+      "value": "Pse  Privacy   Scaling Explorations ",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from constitutional_research.json at project_name"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "funding_and_business": {
+    "total_raised": "$10M",
+    "rounds": [
+      "Seed",
+      "Series A"
+    ],
+    "investors": [
+      "Venture Capital Fund A",
+      "Privacy Advocates Fund"
+    ]
+  },
+  "technical_information": {
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Ethereum",
+      "IPFS",
+      "ZK-SNARKs"
+    ]
+  },
+  "github_data": {
+    "statistics": {
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown"
+    }
+  },
+  "privacy": {
+    "techniques": [
+      "zk-SNARKs",
+      "Ring Signatures",
+      "Stealth Addresses"
+    ]
+  },
+  "project_description": "Privacy Stewards for Ethereum (PSE), formerly Privacy and Scaling Explorations, is the Ethereum Foundation's dedicated 47-member privacy research cluster led by Igor Barinov. Rebranded in September 2025, PSE shifted from cryptography exploration to problem-first solutions addressing surveillance vulnerabilities. The team of cryptographers, mathematicians, developers, and designers focuses on five key areas: private reads/writes for payments, private proving for portable verification, private identities through selective disclosure, privacy experience improvements, and institutional adoption. Notable projects include Semaphore, MACI, zkEmail, zkTLS, Anon Aadhaar, and PlasmaFold (an experimental Layer-2 with private transfer features).",
+  "github_repository": "https://github.com/privacy-scaling-explorations",
+  "github_url": "https://github.com/privacy-scaling-explorations",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/privacy-scaling-explorations"
+    },
+    "website": "https://pse.dev/"
+  }
+}

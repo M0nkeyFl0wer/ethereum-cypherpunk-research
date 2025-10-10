@@ -1,0 +1,190 @@
+{
+  "project_name": "iexec",
+  "research_timestamp": "2025-10-04T18:39:12-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "iexec",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "iexec/research_result.json",
+    "github_url_source": "web_search_2025",
+    "github_url_confidence": 0.95,
+    "github_research_date": "2025-10-10"
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:18-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/iexec",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/iexec",
+    "message": "Page not found: /api/project/iexec",
+    "data": {
+      "path": "/api/project/iexec"
+    }
+  },
+  "market_data": {},
+  "website": "https://www.iex.ec/",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://iexec.com",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "seshat_website_found": true
+  },
+  "basic_information": {
+    "description": {
+      "value": "iExec Core Scheduler - orchestrates workerpools by watching on-chain deals and scheduling off-chain computation",
+      "confidence": 0.9,
+      "sources": [
+        "Extracted from research_result.json at main_repositories[0].description"
+      ],
+      "verification_count": 1
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      {
+        "primary_languages": [
+          "Java",
+          "Solidity",
+          "TypeScript",
+          "JavaScript"
+        ],
+        "blockchain": [
+          "Ethereum",
+          "Solidity Smart Contracts",
+          "ERC-2535 (Diamond Proxy Pattern)",
+          "ERC1538 Module System"
+        ],
+        "backend": [
+          "Java",
+          "Spring Boot",
+          "Gradle"
+        ],
+        "containerization": [
+          "Docker",
+          "OCI images"
+        ],
+        "databases": [
+          "MongoDB",
+          "H2"
+        ],
+        "testing": [
+          "Hardhat",
+          "Jest"
+        ],
+        "build_tools": [
+          "Gradle",
+          "Hardhat",
+          "npm/yarn"
+        ],
+        "deployment": [
+          "Docker Hub",
+          "GitHub Actions",
+          "Create2 Factory"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "techniques": [
+      {
+        "trusted_execution_environment": {
+          "technology": "TEE (Trusted Execution Environment)",
+          "implementations": [
+            {
+              "name": "Intel SGX",
+              "description": "Software Guard Extensions for secure enclaves",
+              "driver_modes": [
+                "NONE (default)",
+                "LEGACY",
+                "NATIVE"
+              ],
+              "features": [
+                "Enclave-based secure computation",
+                "Memory isolation",
+                "Hardware-level protection",
+                "Attestation support"
+              ]
+            }
+          ],
+          "frameworks": [
+            {
+              "name": "Scone",
+              "provider": "Scontain",
+              "description": "High-level framework for SGX development",
+              "features": [
+                "Container protection without modification",
+                "Code and data confidentiality",
+                "Integrity guarantees",
+                "Native SGX limitation resolution"
+              ]
+            },
+            {
+              "name": "Gramine",
+              "description": "TEE framework supported by SMS"
+            }
+          ],
+          "components": [
+            {
+              "name": "Secret Management Service (SMS)",
+              "description": "Stores user secrets and provisions them to authorized TEE applications",
+              "security": [
+                "AES encryption for disk storage",
+                "TLS channel for secret transfer",
+                "On-chain Access Control Lists (ACL)",
+                "Granular access policies",
+                "SSL keystore support"
+              ]
+            }
+          ]
+        },
+        "cryptography": [
+          "AES encryption",
+          "TLS/SSL",
+          "Blockchain-based verification",
+          "Hardware-based attestation"
+        ],
+        "security_features": [
+          "End-to-end data protection",
+          "Code integrity verification",
+          "Tamper-proof execution",
+          "Decentralized trust model",
+          "Proof of Contribution validation",
+          "Staking mechanisms"
+        ]
+      }
+    ]
+  },
+  "description": "iExec Core Scheduler - orchestrates workerpools by watching on-chain deals and scheduling off-chain computation",
+  "project_description": "iExec Core Scheduler - orchestrates workerpools by watching on-chain deals and scheduling off-chain computation",
+  "github_repository": "https://github.com/iExecBlockchainComputing",
+  "github_url": "https://github.com/iExecBlockchainComputing",
+  "github": "https://github.com/iExecBlockchainComputing",
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/iExecBlockchainComputing"
+    },
+    "website": "https://www.iex.ec/"
+  }
+}

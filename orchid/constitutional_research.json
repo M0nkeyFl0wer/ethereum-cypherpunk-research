@@ -1,0 +1,380 @@
+{
+  "project_name": "orchid",
+  "research_timestamp": "2025-10-04T18:39:21-07:00",
+  "research_method": "seshat_track1_multiSource",
+  "project_overview": {
+    "name": "orchid",
+    "confidence": 0.5
+  },
+  "github_data": {
+    "message": "API rate limit exceeded for 66.183.173.49. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+  },
+  "metadata": {
+    "confidence_score": 0.75,
+    "completeness": 65,
+    "sources_count": 3,
+    "research_host": "seshat",
+    "enhancement_track": "track1_gap_filling",
+    "description_source": "json_consolidated_2025",
+    "description_confidence": 0.85,
+    "description_extracted_from": "orchid/reports/news_summary.json",
+    "github_url_source": "online_presence",
+    "github_url_confidence": 0.9,
+    "github_sources_count": 2
+  },
+  "gaps_and_missing_data": [
+    "Full research pending - initial data only"
+  ],
+  "sources": [
+    "GitHub API"
+  ],
+  "enhancement_timestamp": "2025-10-04T19:01:22-07:00",
+  "github_enhanced": {},
+  "web3privacy_data": {
+    "error": true,
+    "url": "https://explorer.web3privacy.info/api/project/orchid",
+    "statusCode": 404,
+    "statusMessage": "Page not found: /api/project/orchid",
+    "message": "Page not found: /api/project/orchid",
+    "data": {
+      "path": "/api/project/orchid"
+    }
+  },
+  "market_data": {},
+  "on_chain_analysis": {
+    "project_name": "orchid",
+    "analysis_timestamp": "2025-10-04T19:02:05-07:00",
+    "analysis_method": "seshat_track2_blockchain",
+    "contract_search": {
+      "github_contracts": [],
+      "known_addresses": [
+        ""
+      ],
+      "explorers_checked": [
+        "etherscan",
+        "github"
+      ]
+    },
+    "on_chain_metrics": {
+      "contract_found": false,
+      "deployment_network": "ethereum",
+      "analysis_status": "preliminary"
+    },
+    "metadata": {
+      "confidence_score": 0.6,
+      "data_source": "block_explorers",
+      "requires_manual_verification": true
+    },
+    "next_steps": [
+      "Verify contract addresses",
+      "Analyze transaction patterns",
+      "Check audit reports on-chain"
+    ]
+  },
+  "website": "https://orchid.network",
+  "website_confidence": 0.85,
+  "website_sources": [
+    "https://orchid.network",
+    "seshat domain discovery"
+  ],
+  "research_metadata": {
+    "batch3_seshat_processed": true,
+    "seshat_website_found": true
+  },
+  "online_presence": {
+    "github": {
+      "url": "https://github.com/OrchidTechnologies/orchid",
+      "confidence": 0.95,
+      "sources": [
+        "Extracted from github_analysis.json"
+      ],
+      "verification_count": 1,
+      "discovered_by": "gap_filling_extraction"
+    },
+    "social_media": {
+      "twitter": {
+        "value": "https://twitter.com/orchidprotocol",
+        "username": "orchidprotocol",
+        "sources": [
+          "https://api.coingecko.com/api/v3/coins/orchid-protocol"
+        ],
+        "confidence": 1.0,
+        "verified_at": "2025-10-08T01:40:00Z",
+        "verification_notes": "Official Twitter handle from CoinGecko API"
+      },
+      "discord": {
+        "data_gap": "MISSING",
+        "search_attempted": true,
+        "sources_checked": [
+          "CoinGecko API",
+          "Orchid website"
+        ],
+        "confidence": 0.0,
+        "gap_reported_at": "2025-10-08T01:40:00Z",
+        "gap_notes": "Discord link not found in automated sources. May require website navigation."
+      },
+      "telegram": {
+        "value": "https://t.me/OrchidOfficial",
+        "username": "OrchidOfficial",
+        "sources": [
+          "https://api.coingecko.com/api/v3/coins/orchid-protocol"
+        ],
+        "confidence": 1.0,
+        "verified_at": "2025-10-08T01:40:00Z",
+        "verification_notes": "Official Telegram channel from CoinGecko API"
+      },
+      "medium": "",
+      "mirror": "",
+      "facebook": {
+        "value": "https://www.facebook.com/OrchidProtocol",
+        "username": "OrchidProtocol",
+        "sources": [
+          "https://api.coingecko.com/api/v3/coins/orchid-protocol"
+        ],
+        "confidence": 1.0,
+        "verified_at": "2025-10-08T01:40:00Z",
+        "verification_notes": "Official Facebook page from CoinGecko API"
+      },
+      "reddit": {
+        "value": "https://www.reddit.com/r/orchid/",
+        "subreddit": "orchid",
+        "sources": [
+          "https://api.coingecko.com/api/v3/coins/orchid-protocol"
+        ],
+        "confidence": 1.0,
+        "verified_at": "2025-10-08T01:40:00Z",
+        "verification_notes": "Official subreddit from CoinGecko API"
+      },
+      "linkedin": {
+        "data_gap": "MISSING",
+        "search_attempted": true,
+        "sources_checked": [
+          "CoinGecko API",
+          "Orchid website"
+        ],
+        "confidence": 0.0,
+        "gap_reported_at": "2025-10-08T01:40:00Z",
+        "gap_notes": "LinkedIn company page not found in automated sources."
+      }
+    }
+  },
+  "basic_information": {
+    "description": {
+      "value": "Orchid: VPN, Personal Firewall",
+      "confidence": 0.9,
+      "sources": [
+        "GitHub repository description via API"
+      ],
+      "verification_count": 1
+    }
+  },
+  "founders": [
+    {
+      "data_gap": "MISSING",
+      "search_attempted": true,
+      "sources_checked": [
+        "CoinGecko API",
+        "Orchid website",
+        "GitHub organization"
+      ],
+      "confidence": 0.0,
+      "gap_reported_at": "2025-10-08T01:40:00Z",
+      "gap_notes": "Founder information not publicly available in primary sources. Manual research or LinkedIn investigation required.",
+      "next_steps": [
+        "Check Orchid whitepaper for team information",
+        "Search LinkedIn for Orchid Labs team",
+        "Review blog posts and medium articles",
+        "Check Crunchbase for company information"
+      ]
+    }
+  ],
+  "funding_and_business": {
+    "investors": {
+      "andreessen_horowitz": {
+        "type": "venture_capital",
+        "portfolio_membership": true,
+        "sources": [
+          "https://api.coingecko.com/api/v3/coins/orchid-protocol"
+        ],
+        "confidence": 0.9,
+        "verified_at": "2025-10-08T01:40:00Z",
+        "verification_notes": "Listed in 'Andreessen Horowitz (a16z) Portfolio' category on CoinGecko"
+      },
+      "sequoia_capital": {
+        "type": "venture_capital",
+        "portfolio_membership": true,
+        "sources": [
+          "https://api.coingecko.com/api/v3/coins/orchid-protocol"
+        ],
+        "confidence": 0.9,
+        "verified_at": "2025-10-08T01:40:00Z",
+        "verification_notes": "Listed in 'Sequoia Capital Portfolio' category on CoinGecko"
+      },
+      "blockchain_capital": {
+        "type": "venture_capital",
+        "portfolio_membership": true,
+        "sources": [
+          "https://api.coingecko.com/api/v3/coins/orchid-protocol"
+        ],
+        "confidence": 0.9,
+        "verified_at": "2025-10-08T01:40:00Z",
+        "verification_notes": "Listed in 'Blockchain Capital Portfolio' category on CoinGecko"
+      }
+    },
+    "funding_amount": {
+      "data_gap": "MISSING",
+      "search_attempted": true,
+      "sources_checked": [
+        "CoinGecko API",
+        "Orchid website"
+      ],
+      "confidence": 0.0,
+      "gap_reported_at": "2025-10-08T01:40:00Z",
+      "gap_notes": "Specific funding amounts not disclosed in available sources. Requires Crunchbase or investment database access."
+    }
+  },
+  "technical_information": {
+    "tech_stack": [
+      {
+        "name": "Dart",
+        "bytes": 2273356,
+        "percentage": 43.73
+      },
+      {
+        "name": "C++",
+        "bytes": 1188625,
+        "percentage": 22.87
+      },
+      {
+        "name": "Python",
+        "bytes": 644983,
+        "percentage": 12.41
+      },
+      {
+        "name": "C",
+        "bytes": 326570,
+        "percentage": 6.28
+      },
+      {
+        "name": "HTML",
+        "bytes": 282079,
+        "percentage": 5.43
+      },
+      {
+        "name": "Makefile",
+        "bytes": 191309,
+        "percentage": 3.68
+      },
+      {
+        "name": "TypeScript",
+        "bytes": 67059,
+        "percentage": 1.29
+      },
+      {
+        "name": "Solidity",
+        "bytes": 53526,
+        "percentage": 1.03
+      },
+      {
+        "name": "Shell",
+        "bytes": 48652,
+        "percentage": 0.94
+      },
+      {
+        "name": "TeX",
+        "bytes": 35868,
+        "percentage": 0.69
+      },
+      {
+        "name": "Objective-C++",
+        "bytes": 29770,
+        "percentage": 0.57
+      },
+      {
+        "name": "CMake",
+        "bytes": 19494,
+        "percentage": 0.38
+      },
+      {
+        "name": "Rust",
+        "bytes": 7147,
+        "percentage": 0.14
+      },
+      {
+        "name": "Ruby",
+        "bytes": 6904,
+        "percentage": 0.13
+      },
+      {
+        "name": "Java",
+        "bytes": 5449,
+        "percentage": 0.1
+      },
+      {
+        "name": "Yul",
+        "bytes": 4436,
+        "percentage": 0.09
+      },
+      {
+        "name": "Kotlin",
+        "bytes": 3576,
+        "percentage": 0.07
+      },
+      {
+        "name": "Swift",
+        "bytes": 3390,
+        "percentage": 0.07
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 2416,
+        "percentage": 0.05
+      },
+      {
+        "name": "Mermaid",
+        "bytes": 1850,
+        "percentage": 0.04
+      },
+      {
+        "name": "Jinja",
+        "bytes": 1411,
+        "percentage": 0.03
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 317,
+        "percentage": 0.01
+      },
+      {
+        "name": "CSS",
+        "bytes": 106,
+        "percentage": 0.0
+      },
+      {
+        "name": "Objective-C",
+        "bytes": 38,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "code_analysis": {
+    "total_lines_of_code": 20182,
+    "languages": {
+      "solidity": 13,
+      "rust": 1,
+      "typescript": 17,
+      "javascript": 2,
+      "go": 0,
+      "python": 100
+    },
+    "smart_contracts_found": 13,
+    "test_files_found": 68,
+    "confidence": 0.95,
+    "source": "seshat_code_analysis"
+  },
+  "description": "Orchid VPN Review 2025 \u2014 Keep This in Mind Before Buying&nbsp;&nbsp;www.vpnmentor.com",
+  "project_description": "Orchid VPN Review 2025 \u2014 Keep This in Mind Before Buying&nbsp;&nbsp;www.vpnmentor.com",
+  "github_repository": "https://github.com/OrchidTechnologies/orchid",
+  "github_url": "https://github.com/OrchidTechnologies/orchid"
+}

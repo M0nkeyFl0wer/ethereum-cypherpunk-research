@@ -1,0 +1,29 @@
+{
+  "project": "taiko",
+  "repository": "https://github.com/taikoxyz/taiko-mono",
+  "analysis_timestamp": "2025-10-10T15:50:36Z",
+  "confidence": 0.95,
+  "source": "seshat_code_analysis",
+  "languages": {
+    "solidity": 388,
+    "rust": 46,
+    "typescript": 555,
+    "javascript": 29,
+    "go": 394,
+    "python": 3
+  },
+  "total_files": 2464,
+  "total_lines_of_code": 290394,
+  "smart_contracts_found": 388,
+  "dependencies": {
+    "npm": true,
+    "cargo": false,
+    "go_modules": true
+  },
+  "test_files_found": 473,
+  "documentation": {
+    "has_readme": true,
+    "markdown_files": 108
+  },
+  "analysis_status": "completed"
+}
