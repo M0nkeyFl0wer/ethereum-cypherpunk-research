@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web3 Privacy Research Portal - Ethereum Cypherpunk Research</title>
+    <meta name="description" content="Comprehensive research on 76 Web3 privacy projects - protocols, tools, and infrastructure enabling confidential transactions and anonymous interactions">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-shield-alt"></i>
+                    <h1>Web3 Privacy</h1>
+                    <span class="subtitle">Ethereum Cypherpunk Research</span>
+                </div>
+                <nav class="nav">
+                    <a href="https://github.com/M0nkeyFl0wer/ethereum-cypherpunk-research" class="nav-link" target="_blank">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- Hero Section -->
+            <section class="hero">
+                <h2>Comprehensive Research on Web3 Privacy Projects</h2>
+                <p class="hero-description">
+                    Explore protocols, tools, and infrastructure enabling confidential transactions and anonymous interactions 
+                    on Ethereum and other blockchains. Each project includes technical analysis, team information, and security assessments.
+                </p>
+            </section>
+
+            <!-- Search and Filters -->
+            <section class="search-section">
+                <div class="search-container">
+                    <div class="search-box">
+                        <i class="fas fa-search search-icon"></i>
+                        <input 
+                            type="text" 
+                            id="search-input" 
+                            placeholder="Search privacy projects..."
+                            class="search-input"
+                            autocomplete="off"
+                        >
+                        <button id="search-clear" class="search-clear" title="Clear search" style="display: none;">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                    <div class="filters">
+                        <div class="filter-group">
+                            <label for="category-filter">Category:</label>
+                            <select id="category-filter" class="filter-select">
+                                <option value="">All Categories</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label for="blockchain-filter">Blockchain:</label>
+                            <select id="blockchain-filter" class="filter-select">
+                                <option value="">All Blockchains</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label for="tech-filter">Technology:</label>
+                            <select id="tech-filter" class="filter-select">
+                                <option value="">All Technologies</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- Projects Grid -->
+            <section class="projects-section">
+                <div id="projects-grid" class="projects-grid">
+                    <div class="loading">
+                        <i class="fas fa-spinner fa-spin"></i>
+                        <p>Loading privacy projects...</p>
+                    </div>
+                </div>
+                
+                <!-- No Results State -->
+                <div id="no-results" class="no-results" style="display: none;">
+                    <i class="fas fa-search"></i>
+                    <h3>No projects found</h3>
+                    <p>Try adjusting your search terms or filters</p>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Project Modal -->
+    <div id="project-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title"></h3>
+                <button class="modal-close" id="modal-close">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body" id="modal-body">
+                <!-- Project details will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <p>&copy; 2025 Ethereum Cypherpunk Research. Research data compiled from public sources.</p>
+                    <p>Individual projects have their own licenses.</p>
+                </div>
+                <div class="footer-links">
+                    <a href="README.md" class="footer-link">About</a>
+                    <a href="PRODUCTION_READY_REPORT.md" class="footer-link">Reports</a>
+                    <a href="https://github.com/M0nkeyFl0wer/ethereum-cypherpunk-research" class="footer-link" target="_blank">GitHub</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="data-aggregator.js"></script>
+    <script src="search.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
