@@ -1,2 +1,0 @@
-# Verified Data - oasis-network
-

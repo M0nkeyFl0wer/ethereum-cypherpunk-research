@@ -10,9 +10,7 @@
 - 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
 - ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
 
-### Analysis
 
-- 🕵️ [OSINT Findings](analysis/OSINT_FINDINGS.md) - Open-source intelligence research
 
 ---
 

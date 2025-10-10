@@ -12,10 +12,6 @@
 ### Analysis
 
 - 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
-- 🔧 [Tech Stack](analysis/TECH_STACK.md) - Technology stack analysis
-- 📈 [Project Metrics](analysis/METRICS.md) - Code and community metrics
-- 🏢 [Organization](analysis/ORGANIZATION.md) - Team and organizational structure
-- 🕵️ [OSINT Findings](analysis/OSINT_FINDINGS.md) - Open-source intelligence research
 
 ### Reports
 

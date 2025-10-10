@@ -1,2 +1,0 @@
-# Technology Stack - dark-forest
-

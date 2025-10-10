@@ -1,2 +1,0 @@
-# GitHub Analysis - cake-wallet
-

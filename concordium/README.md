@@ -12,14 +12,9 @@
 
 ### Analysis
 
-- 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
 - 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
-- 📊 [GitHub Analysis](analysis/GITHUB_ANALYSIS.md) - Repository statistics and activity
-- 🕵️ [OSINT Findings](analysis/OSINT_FINDINGS.md) - Open-source intelligence research
 
-### Sources
 
-- ✅ [Verified Data](sources/VERIFIED_DATA.md) - Multi-source verified information
 
 ---
 
@@ -41,9 +36,6 @@ Privacy Technology
 This project includes comprehensive research data:
 
 ### Reports
-- [Security](reports/SECURITY.md)
-- [Team](reports/TEAM.md)
-- [Technical](reports/TECHNICAL.md)
 - [Opsec Vulnerability Assessment](reports/opsec_vulnerability_assessment.md)
 - [Oso Assessment 2025 10 06](reports/oso_assessment_2025-10-06.md)
 

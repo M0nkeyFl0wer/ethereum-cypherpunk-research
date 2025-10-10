@@ -10,11 +10,7 @@
 - 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
 - ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
 
-### Analysis
 
-- 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
-- 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
-- 📊 [GitHub Analysis](analysis/GITHUB_ANALYSIS.md) - Repository statistics and activity
 
 ---
 
@@ -44,9 +40,6 @@ Privacy Technology
 This project includes comprehensive research data:
 
 ### Reports
-- [Security](reports/SECURITY.md)
-- [Team](reports/TEAM.md)
-- [Technical](reports/TECHNICAL.md)
 - [Code Review](reports/code_review.md)
 
 ### Analysis Data

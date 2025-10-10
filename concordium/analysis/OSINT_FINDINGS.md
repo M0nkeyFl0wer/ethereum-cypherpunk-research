@@ -1,2 +1,0 @@
-# OSINT Findings - concordium
-

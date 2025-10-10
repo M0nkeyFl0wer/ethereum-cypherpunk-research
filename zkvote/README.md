@@ -13,14 +13,8 @@
 ### Analysis
 
 - 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
-- 🔧 [Tech Stack](analysis/TECH_STACK.md) - Technology stack analysis
-- 📊 [GitHub Analysis](analysis/GITHUB_ANALYSIS.md) - Repository statistics and activity
-- 📈 [Project Metrics](analysis/METRICS.md) - Code and community metrics
-- 🏢 [Organization](analysis/ORGANIZATION.md) - Team and organizational structure
 
-### Sources
 
-- ✅ [Verified Data](sources/VERIFIED_DATA.md) - Multi-source verified information
 
 ---
 
@@ -43,9 +37,6 @@ Privacy Technology
 This project includes comprehensive research data:
 
 ### Reports
-- [Security](reports/SECURITY.md)
-- [Team](reports/TEAM.md)
-- [Technical](reports/TECHNICAL.md)
 - [Blockchain Metrics](reports/blockchain_metrics.md)
 - [Organization Profile](reports/organization_profile.md)
 - [Osint Statistics](reports/osint_statistics.md)

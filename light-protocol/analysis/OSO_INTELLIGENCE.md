@@ -1,2 +1,0 @@
-# OSO Intelligence - light-protocol
-

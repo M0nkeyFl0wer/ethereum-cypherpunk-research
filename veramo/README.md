@@ -12,9 +12,7 @@
 
 ### Analysis
 
-- 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
 - 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
-- 🔍 [OSO Intelligence](analysis/OSO_INTELLIGENCE.md) - Developer activity and ecosystem health
 
 ---
 
@@ -36,9 +34,6 @@ Privacy Technology
 This project includes comprehensive research data:
 
 ### Reports
-- [Security](reports/SECURITY.md)
-- [Team](reports/TEAM.md)
-- [Technical](reports/TECHNICAL.md)
 - [Oso Assessment 2025 09 29](reports/oso_assessment_2025-09-29.md)
 
 ### Analysis Data

@@ -14,7 +14,6 @@
 
 - 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
 - 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
-- 📊 [GitHub Analysis](analysis/GITHUB_ANALYSIS.md) - Repository statistics and activity
 
 ---
 
@@ -44,9 +43,6 @@ Privacy Technology
 This project includes comprehensive research data:
 
 ### Reports
-- [Security](reports/SECURITY.md)
-- [Team](reports/TEAM.md)
-- [Technical](reports/TECHNICAL.md)
 - [Code Review](reports/code_review.md)
 - [Opsec Security Brief](reports/opsec_security_brief.md)
 - [Osint Statistics](reports/osint_statistics.md)

@@ -1,2 +1,0 @@
-# OSINT Findings - manta-network
-

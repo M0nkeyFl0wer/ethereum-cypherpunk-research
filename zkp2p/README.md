@@ -10,11 +10,7 @@
 - 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
 - ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
 
-### Analysis
 
-- 🔧 [Tech Stack](analysis/TECH_STACK.md) - Technology stack analysis
-- 📈 [Project Metrics](analysis/METRICS.md) - Code and community metrics
-- 🏢 [Organization](analysis/ORGANIZATION.md) - Team and organizational structure
 
 ---
 

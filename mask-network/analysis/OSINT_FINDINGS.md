@@ -1,2 +1,0 @@
-# OSINT Findings - mask-network
-
