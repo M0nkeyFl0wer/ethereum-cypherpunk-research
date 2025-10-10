@@ -1,6 +1,29 @@
-# fileverse
+# Fileverse
 
-![fileverse Banner](media/fileverse-banner.png)
+![fileverse](media/avatar.png)
+
+
+## 📚 Documentation
+
+### Core Documents
+
+- 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
+- ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
+
+### Analysis
+
+- 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
+- 🔧 [Tech Stack](analysis/TECH_STACK.md) - Technology stack analysis
+- 📊 [GitHub Analysis](analysis/GITHUB_ANALYSIS.md) - Repository statistics and activity
+- 📈 [Project Metrics](analysis/METRICS.md) - Code and community metrics
+- 🏢 [Organization](analysis/ORGANIZATION.md) - Team and organizational structure
+
+### Sources
+
+- ✅ [Verified Data](sources/VERIFIED_DATA.md) - Multi-source verified information
+
+---
+
 
 ## 📝 Description
 

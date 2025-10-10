@@ -1,5 +1,24 @@
 # Alephim
 
+![alephim](media/avatar.png)
+
+
+## 📚 Documentation
+
+### Core Documents
+
+- 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
+- ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
+
+### Analysis
+
+- 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
+- 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
+- 📊 [GitHub Analysis](analysis/GITHUB_ANALYSIS.md) - Repository statistics and activity
+
+---
+
+
 ## 📝 Description
 
 Aleph.im (now Aleph Cloud) is a decentralized cloud computing platform that provides on-demand serverless computation, database, and storage infrastructure for decentralized application development. The platform delivers confidential computing, decentralized GPU power, and serverless functions for secure AI, scalable dApps, and next-gen Web3 infrastructure. It is an open-source crosschain network featuring decentralized database storage, computing resources, blockchain indexing, and a decentralized identity framework, with the core mission to help decentralized apps and protocols eliminate centralized components from their stack.

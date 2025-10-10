@@ -1,5 +1,21 @@
 # Mask
 
+![mask](media/avatar.png)
+
+
+## 📚 Documentation
+
+### Core Documents
+
+- 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
+
+### Analysis
+
+- 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
+
+---
+
+
 ## 📝 Description
 
 No description available

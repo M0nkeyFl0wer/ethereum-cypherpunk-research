@@ -1,5 +1,23 @@
 # Snapshot X
 
+![snapshot-x](media/avatar.png)
+
+
+## 📚 Documentation
+
+### Core Documents
+
+- 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
+
+### Analysis
+
+- 🔧 [Tech Stack](analysis/TECH_STACK.md) - Technology stack analysis
+- 📈 [Project Metrics](analysis/METRICS.md) - Code and community metrics
+- 🏢 [Organization](analysis/ORGANIZATION.md) - Team and organizational structure
+
+---
+
+
 ## 📝 Description
 
 No description available

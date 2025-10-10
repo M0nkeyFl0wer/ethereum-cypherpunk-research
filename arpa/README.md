@@ -1,5 +1,24 @@
 # Arpa
 
+![arpa](media/avatar.png)
+
+
+## 📚 Documentation
+
+### Core Documents
+
+- 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
+- ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
+
+### Analysis
+
+- 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
+- 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
+- 🔍 [OSO Intelligence](analysis/OSO_INTELLIGENCE.md) - Developer activity and ecosystem health
+
+---
+
+
 ## 📝 Description
 
 ARPA Network is a secure computation network that provides a threshold BLS (Boneh-Lynn-Shacham) signature infrastructure for blockchain applications. It enables decentralized, verifiable, and blockchain-agnostic cryptographic services including random number generation, secure wallets, cross-chain bridges, and decentralized custody. As a privacy-preserving Layer 2 solution, ARPA uses secure multi-party computation to protect and validate transactions while increasing transaction processing times for practically any blockchain network. The network allows nodes to generate signatures asynchronously and in parallel, with a focus on security, flexibility, and multi-chain compatibility.

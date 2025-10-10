@@ -1,5 +1,25 @@
 # Beam
 
+## 📚 Documentation
+
+### Core Documents
+
+- 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
+- ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
+
+### Analysis
+
+- 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
+- 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
+- 🔍 [OSO Intelligence](analysis/OSO_INTELLIGENCE.md) - Developer activity and ecosystem health
+
+### Reports
+
+- 📰 [News & Updates](reports/NEWS_SUMMARY.md) - Recent articles and developments
+
+---
+
+
 ## 📝 Description
 
 Beam: Scalable Confidential Cryptocurrency. Leading the way to Confidential DeFi

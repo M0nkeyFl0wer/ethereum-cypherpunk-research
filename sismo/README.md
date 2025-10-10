@@ -1,5 +1,28 @@
 # Sismo
 
+![sismo](media/avatar.png)
+
+
+## 📚 Documentation
+
+### Core Documents
+
+- 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
+- ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
+
+### Analysis
+
+- 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
+- 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
+- 🔍 [OSO Intelligence](analysis/OSO_INTELLIGENCE.md) - Developer activity and ecosystem health
+
+### Reports
+
+- 📰 [News & Updates](reports/NEWS_SUMMARY.md) - Recent articles and developments
+
+---
+
+
 ## 📝 Description
 
 Sismo is a privacy-preserving reputation protocol using zero-knowledge proofs for decentralized identity and authentication solutions. The protocol enables users to aggregate their web3 and web2 identities and selectively disclose personal data throu...

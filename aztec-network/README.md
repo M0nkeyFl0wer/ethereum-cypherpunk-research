@@ -1,5 +1,24 @@
 # Aztec Network
 
+![aztec-network](media/avatar.png)
+
+
+## 📚 Documentation
+
+### Core Documents
+
+- 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
+- ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
+
+### Analysis
+
+- 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
+- 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
+- 📊 [GitHub Analysis](analysis/GITHUB_ANALYSIS.md) - Repository statistics and activity
+
+---
+
+
 ## 📝 Description
 
 Aztec Network is the privacy-first Layer 2 blockchain on Ethereum (same as 'aztec' entry - this appears to be a duplicate project name referring to the same protocol).

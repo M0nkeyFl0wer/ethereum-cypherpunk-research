@@ -1,5 +1,24 @@
 # Zion
 
+![zion](media/avatar.png)
+
+
+## 📚 Documentation
+
+### Core Documents
+
+- 📜 [Constitutional Research](CONSTITUTIONAL_RESEARCH.md) - Core project overview and privacy features
+- ℹ️ [Project Metadata](PROJECT_METADATA.md) - Basic project information and categorization
+
+### Analysis
+
+- 📝 [Smart Contracts](analysis/SMART_CONTRACTS.md) - Contract analysis and code review
+- 💻 [Code Analysis](analysis/CODE_ANALYSIS.md) - Technical code review and metrics
+- 🔍 [OSO Intelligence](analysis/OSO_INTELLIGENCE.md) - Developer activity and ecosystem health
+
+---
+
+
 ## 📝 Description
 
 Zion is an open global scalable decentralized community platform that facilitates direct flow of content and payments between creators and their audiences. Built on Bitcoin's Lightning Network and Web5 framework, Zion enables censorship-resistant soc...
